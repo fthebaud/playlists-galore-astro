@@ -1,40 +1,38 @@
-// Import the glob loader
-import { glob, file } from "astro/loaders";
-
-// Import utilities from `astro:content`
+import { file } from "astro/loaders";
 import { z, defineCollection } from "astro:content";
 
 /*
- * COLLECTION STEP 1: CREATING A COLLECTION (called "articles")
+ * COLLECTION STEP 1: CREATING A COLLECTION
  */
 
-// Define a `loader` and `schema` for each collection
-const articles = defineCollection({
-  // Where to get the blog posts
-  loader: glob({ pattern: "**/[^_]*.md", base: "./src/data/articles" }),
-  // How to verify blog post format
-  schema: z.object({
-    title: z.string(),
-    pubDate: z.date(),
-    description: z.string(),
-    author: z.string(),
-    image: z.object({
+const playlistSchema = z.object({
+  category: z.string(),
+  id: z.string(),
+  images: z.array(
+    z.object({
+      height: z.number(),
+      width: z.number(),
       url: z.string(),
-      alt: z.string(),
     }),
-    tags: z.array(z.string()),
+  ),
+  lastUpdate: z.number(),
+  name: z.string(),
+  tags: z.array(z.string()),
+  totalTracks: z.number(),
+  url: z.object({
+    spotify: z.string(),
+    youtube: z.string(),
+    deezer: z.string(),
+    tidal: z.string(),
   }),
 });
 
-const playlists = defineCollection({
+const periodicalPlaylists = defineCollection({
   // Where to get the blog posts
-  loader: file("./src/data/playlists.json" ),
+  loader: file("./src/data/periodical-playlists.json"),
   // How to verify blog post format
-  schema: z.object({
-    name: z.string(),
-  }),
+  schema: playlistSchema,
 });
-
 
 // Export a single `collections` object to register your collection(s)
-export const collections = { articles, playlists };
+export const collections = { periodicalPlaylists };

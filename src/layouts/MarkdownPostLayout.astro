@@ -8,8 +8,8 @@ const { frontmatter } = Astro.props;
   <meta name="viewport" content="width=device-width" />
   <meta name="generator" content={Astro.generator} />
 </head>
-<h1>{frontmatter.title}</h1>
-<p>Written by {frontmatter.author} !!!</p>
+<h1>{frontmatter.name}</h1>
+<!-- <p>Written by {frontmatter.author} !!!</p>
 <p>Published on: {frontmatter.pubDate.toString().slice(0, 10)}</p>
 <slot />
 <div class="tags">
@@ -20,7 +20,7 @@ const { frontmatter } = Astro.props;
       </p>
     ))
   }
-</div>
+</div> -->
 
 <style>
   a {

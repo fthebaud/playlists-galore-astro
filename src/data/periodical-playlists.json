@@ -1,69 +1,7 @@
 [
   {
-    "name": "Ambient Sounds / Neo-Classical",
-    "lastUpdate": "20230331",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27374213d4ecc4361089167ce25ab67616d0000b27381804089a7089e0d49694b44ab67616d0000b273bdab518379fc931582775a69ab67616d0000b273e9128db4d794d31b9af2fdec",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27374213d4ecc4361089167ce25ab67616d0000b27381804089a7089e0d49694b44ab67616d0000b273bdab518379fc931582775a69ab67616d0000b273e9128db4d794d31b9af2fdec",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27374213d4ecc4361089167ce25ab67616d0000b27381804089a7089e0d49694b44ab67616d0000b273bdab518379fc931582775a69ab67616d0000b273e9128db4d794d31b9af2fdec",
-        "width": 60
-      }
-    ],
-    "category": "ongoing",
-    "tags": [],
-    "totalTracks": 265,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/0bSX1pd4ds057UqZiso8jH",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJwQld0KK0FnJIKnyI7Jks_",
-      "deezer": "https://deezer.page.link/MpwojiMvFVaBRBLJA",
-      "tidal": "https://tidal.com/browse/playlist/442e9f4a-61be-464c-9ca0-bb3aae587703"
-    },
-    "id": "0e9ce1bf-6065-4c95-a137-4ca68b812ce6"
-  },
-  {
-    "name": "Indie And Lo-Fi Vibes",
-    "lastUpdate": "20230331",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27375398280edcb0278b4516c48ab67616d0000b273c30e0a2e68c8c4f97b24c1e1ab67616d0000b273cb36263c2b6371b25c2e7a49ab67616d0000b273fb4bf66f138bea721c221442",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27375398280edcb0278b4516c48ab67616d0000b273c30e0a2e68c8c4f97b24c1e1ab67616d0000b273cb36263c2b6371b25c2e7a49ab67616d0000b273fb4bf66f138bea721c221442",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27375398280edcb0278b4516c48ab67616d0000b273c30e0a2e68c8c4f97b24c1e1ab67616d0000b273cb36263c2b6371b25c2e7a49ab67616d0000b273fb4bf66f138bea721c221442",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 70,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/3phb6HmOTkdvq6bYFBF5xf",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKhcg447B7Yc-4t8xIC_7Ew",
-      "deezer": "https://deezer.page.link/m8cm17QUN7EPQdD46",
-      "tidal": "https://tidal.com/browse/playlist/62a9298f-6c14-4769-9cf6-577eb86adbce"
-    },
-    "id": "2901960d-8ea3-403c-8f36-6e0121c20472"
-  },
-  {
     "name": "December 2024 - Everything's Burning Down",
-    "lastUpdate": "20241213",
+    "lastUpdate": 20241213,
     "images": [
       {
         "height": 640,
@@ -94,7 +32,7 @@
   },
   {
     "name": "November 2024 - Didn't It Rain",
-    "lastUpdate": "20241108",
+    "lastUpdate": 20241108,
     "images": [
       {
         "height": 640,
@@ -125,7 +63,7 @@
   },
   {
     "name": "October 2024 - Fog Lights",
-    "lastUpdate": "20241026",
+    "lastUpdate": 20241026,
     "images": [
       {
         "height": 640,
@@ -156,7 +94,7 @@
   },
   {
     "name": "September 2024 - Just A Minute Too Late",
-    "lastUpdate": "20240902",
+    "lastUpdate": 20240902,
     "images": [
       {
         "height": 640,
@@ -187,7 +125,7 @@
   },
   {
     "name": "July 2024 - When Night Will Bloom",
-    "lastUpdate": "20240730",
+    "lastUpdate": 20240730,
     "images": [
       {
         "height": 640,
@@ -218,7 +156,7 @@
   },
   {
     "name": "June 2024 - Looking For A Feeling",
-    "lastUpdate": "20240621",
+    "lastUpdate": 20240621,
     "images": [
       {
         "height": 640,
@@ -249,7 +187,7 @@
   },
   {
     "name": "May 2024 - That seems like a lot of garlic",
-    "lastUpdate": "20240516",
+    "lastUpdate": 20240516,
     "images": [
       {
         "height": 640,
@@ -280,7 +218,7 @@
   },
   {
     "name": "January 2024 - Curieux face à face",
-    "lastUpdate": "20240111",
+    "lastUpdate": 20240111,
     "images": [
       {
         "height": 640,
@@ -311,7 +249,7 @@
   },
   {
     "name": "December 2023 -  Working On A Way To Remember",
-    "lastUpdate": "20231207",
+    "lastUpdate": 20231207,
     "images": [
       {
         "height": 640,
@@ -342,7 +280,7 @@
   },
   {
     "name": "November 2023 - Trapped In The Skies",
-    "lastUpdate": "20231126",
+    "lastUpdate": 20231126,
     "images": [
       {
         "height": 640,
@@ -373,7 +311,7 @@
   },
   {
     "name": "October 2023 - In Strange Ideas",
-    "lastUpdate": "20231008",
+    "lastUpdate": 20231008,
     "images": [
       {
         "height": 640,
@@ -404,7 +342,7 @@
   },
   {
     "name": "August 2023 - On the waves of time",
-    "lastUpdate": "20230827",
+    "lastUpdate": 20230827,
     "images": [
       {
         "height": 640,
@@ -435,7 +373,7 @@
   },
   {
     "name": "June 2023 - In Wildfires",
-    "lastUpdate": "20230616",
+    "lastUpdate": 20230616,
     "images": [
       {
         "height": 640,
@@ -466,7 +404,7 @@
   },
   {
     "name": "March 2023 - Nights that won't happen",
-    "lastUpdate": "20230331",
+    "lastUpdate": 20230331,
     "images": [
       {
         "height": 640,
@@ -497,7 +435,7 @@
   },
   {
     "name": "January 2023 - And here is the horizon",
-    "lastUpdate": "20230113",
+    "lastUpdate": 20230113,
     "images": [
       {
         "height": 640,
@@ -528,7 +466,7 @@
   },
   {
     "name": "December 2022 - Avec Les Nuages",
-    "lastUpdate": "20221226",
+    "lastUpdate": 20221226,
     "images": [
       {
         "height": 640,
@@ -558,70 +496,8 @@
     "id": "6dec9253-0403-43f5-adaa-a73e1777c751"
   },
   {
-    "name": "Everything from playlist galore 2022",
-    "lastUpdate": "20221227",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b273181f6c66090a4c0747d1bbd8ab67616d0000b2734599fdba5f431f3b419349a0ab67616d0000b2735bd1d1082e969cc25312e0b2ab67616d0000b273f580ac476598d2144c8e9d8c",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 150,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/5MU3im4nNGaZjdXVJuzjq0",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJ5bVHlOXzAil4-fmof_8Wd",
-      "deezer": "https://deezer.page.link/aJcBwwwAiMfncYdDA",
-      "tidal": "https://tidal.com/browse/playlist/fbe1df0c-c33f-4b7a-9673-a93767a77835"
-    },
-    "id": "6209c25c-6f3a-4b4d-a063-d14449864841"
-  },
-  {
-    "name": "Christmas Playlist",
-    "lastUpdate": "20221228",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730387e54a214e3ed5ff795956ab67616d0000b273abde0944a8b580f327a6e2ecab67616d0000b273bfaff28ff8f72f71ad975770ab67616d0000b273d5f598be32d3027b9578ecd6",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 51,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/1SgorvhoCAM93DIV6F7EAr",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLtlpXr2tTFC9paD0Ui2ZVB",
-      "deezer": "https://deezer.page.link/tKkgsXYqhe2WLuGQ9",
-      "tidal": "https://tidal.com/browse/playlist/7c76c399-8eb1-47ce-b9c5-229c473bf027"
-    },
-    "id": "63b3e350-12e0-4c7d-852c-f8d440158af8"
-  },
-  {
     "name": "November 2022 - On A Friday Night",
-    "lastUpdate": "20221101",
+    "lastUpdate": 20221101,
     "images": [
       {
         "height": 640,
@@ -652,7 +528,7 @@
   },
   {
     "name": "October 2022 - Just Trying To Mend Your Heart",
-    "lastUpdate": "20221001",
+    "lastUpdate": 20221001,
     "images": [
       {
         "height": 640,
@@ -683,7 +559,7 @@
   },
   {
     "name": "August 2022 - Un Sol D'Automne",
-    "lastUpdate": "20220801",
+    "lastUpdate": 20220801,
     "images": [
       {
         "height": 640,
@@ -714,7 +590,7 @@
   },
   {
     "name": "June 2022 - Alléluia, be bop a lula",
-    "lastUpdate": "20220601",
+    "lastUpdate": 20220601,
     "images": [
       {
         "height": 640,
@@ -745,7 +621,7 @@
   },
   {
     "name": "May 2022 - In colors",
-    "lastUpdate": "20220501",
+    "lastUpdate": 20220501,
     "images": [
       {
         "height": 640,
@@ -776,7 +652,7 @@
   },
   {
     "name": "February 2022 - I wish I had a river",
-    "lastUpdate": "20220201",
+    "lastUpdate": 20220201,
     "images": [
       {
         "height": 640,
@@ -807,7 +683,7 @@
   },
   {
     "name": "January 2022 - I Wonder Why We Came",
-    "lastUpdate": "20220101",
+    "lastUpdate": 20220101,
     "images": [
       {
         "height": 640,
@@ -837,70 +713,8 @@
     "id": "dba68206-87b4-478a-8d7c-42b2a351731f"
   },
   {
-    "name": "Everything from playlists galore 2021",
-    "lastUpdate": "20211231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733879ef4375b97d2b58bf0768ab67616d0000b27346ed71f4f0ab02c72179b15dab67616d0000b273589ce9a911c6e65b1f80c558ab67616d0000b2735c21d73934bb9760a2f791a2",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733879ef4375b97d2b58bf0768ab67616d0000b27346ed71f4f0ab02c72179b15dab67616d0000b273589ce9a911c6e65b1f80c558ab67616d0000b2735c21d73934bb9760a2f791a2",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733879ef4375b97d2b58bf0768ab67616d0000b27346ed71f4f0ab02c72179b15dab67616d0000b273589ce9a911c6e65b1f80c558ab67616d0000b2735c21d73934bb9760a2f791a2",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 137,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/5emvLGqLj0w6AeLfdyHlhl",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKeezAftFr2cx5kSrmvoYjN",
-      "deezer": "https://deezer.page.link/N18G2EaT4MgFa7au5",
-      "tidal": "https://tidal.com/browse/playlist/02189f65-ead9-4a92-aadf-937123d99529"
-    },
-    "id": "19cf2f91-48ec-4bb5-a016-c01703f4c1f2"
-  },
-  {
-    "name": "2020, Summer of n'importe quoi",
-    "lastUpdate": "20200626",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731d86f0dd2c46c5d75cf07bddab67616d0000b27354c5c304064df85d61253ac7ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273b98afa12c212cbbda4f1799b",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731d86f0dd2c46c5d75cf07bddab67616d0000b27354c5c304064df85d61253ac7ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273b98afa12c212cbbda4f1799b",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731d86f0dd2c46c5d75cf07bddab67616d0000b27354c5c304064df85d61253ac7ab67616d0000b273b33d46dfa2635a47eebf63b2ab67616d0000b273b98afa12c212cbbda4f1799b",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 169,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/0U01gCf7XXzvcJ6tfG9BzA",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLPVnH6hVjQoZAMa5VfIE-g",
-      "deezer": "https://deezer.page.link/ZJP6AuQFmX5AoUZe9",
-      "tidal": "https://tidal.com/browse/playlist/8fb1f8d6-8313-443b-84e9-d9a14586bf8f"
-    },
-    "id": "d635e535-3b84-4744-affd-88ef81715673"
-  },
-  {
     "name": "December 2021 - Well Well Well",
-    "lastUpdate": "20211201",
+    "lastUpdate": 20211201,
     "images": [
       {
         "height": 640,
@@ -931,7 +745,7 @@
   },
   {
     "name": "November 2021 - Honey it wasn't yet the spring",
-    "lastUpdate": "20211101",
+    "lastUpdate": 20211101,
     "images": [
       {
         "height": 640,
@@ -962,7 +776,7 @@
   },
   {
     "name": "October 2021 - And then, the funniest thing happened",
-    "lastUpdate": "20211001",
+    "lastUpdate": 20211001,
     "images": [
       {
         "height": 640,
@@ -993,7 +807,7 @@
   },
   {
     "name": "September 2021 - Time Waits For No One",
-    "lastUpdate": "20210901",
+    "lastUpdate": 20210901,
     "images": [
       {
         "height": 640,
@@ -1024,7 +838,7 @@
   },
   {
     "name": "August 2021 - I Was Far Away",
-    "lastUpdate": "20210801",
+    "lastUpdate": 20210801,
     "images": [
       {
         "height": 640,
@@ -1055,7 +869,7 @@
   },
   {
     "name": "July 2021 - Hurricane Laughter",
-    "lastUpdate": "20210701",
+    "lastUpdate": 20210701,
     "images": [
       {
         "height": 640,
@@ -1086,7 +900,7 @@
   },
   {
     "name": "May 2021 - Good For You",
-    "lastUpdate": "20210501",
+    "lastUpdate": 20210501,
     "images": [
       {
         "height": 640,
@@ -1117,7 +931,7 @@
   },
   {
     "name": "April 2021 - That's Life",
-    "lastUpdate": "20210401",
+    "lastUpdate": 20210401,
     "images": [
       {
         "height": 640,
@@ -1147,39 +961,8 @@
     "id": "c8b19065-1f36-4355-8768-4d563c4dca1f"
   },
   {
-    "name": "Everything from playlist galore 2020",
-    "lastUpdate": "20201231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734f58636c499ce0c992dfdff0ab67616d0000b2735756154e1fe9788e404a7e47ab67616d0000b273ca641c0426924cbf33160c3cab67616d0000b273e82b0574af59f89d7c909442",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734f58636c499ce0c992dfdff0ab67616d0000b2735756154e1fe9788e404a7e47ab67616d0000b273ca641c0426924cbf33160c3cab67616d0000b273e82b0574af59f89d7c909442",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734f58636c499ce0c992dfdff0ab67616d0000b2735756154e1fe9788e404a7e47ab67616d0000b273ca641c0426924cbf33160c3cab67616d0000b273e82b0574af59f89d7c909442",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 94,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/3Ipmvcj1nR8Gn9k0F3PEcr",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLr99YNVWOfgJKi3TjShW4o",
-      "deezer": "https://deezer.page.link/LLfsjKU3AhBr9ZQ47",
-      "tidal": "https://tidal.com/browse/playlist/f8211cd5-9644-45af-a09f-76d77f7c99b3"
-    },
-    "id": "725b3e4a-f0d0-4430-93b1-392eb3c9788f"
-  },
-  {
     "name": "December 2020 - Deadly Delicate",
-    "lastUpdate": "20201201",
+    "lastUpdate": 20201201,
     "images": [
       {
         "height": 640,
@@ -1210,7 +993,7 @@
   },
   {
     "name": "October 2020 - Strange Weather",
-    "lastUpdate": "20201001",
+    "lastUpdate": 20201001,
     "images": [
       {
         "height": 640,
@@ -1241,7 +1024,7 @@
   },
   {
     "name": "September 2020 - Play me a song, Mr. Wolfman Jack",
-    "lastUpdate": "20200901",
+    "lastUpdate": 20200901,
     "images": [
       {
         "height": 640,
@@ -1272,7 +1055,7 @@
   },
   {
     "name": "May 2020 - No Rooftop On My Joy",
-    "lastUpdate": "20200501",
+    "lastUpdate": 20200501,
     "images": [
       {
         "height": 640,
@@ -1303,7 +1086,7 @@
   },
   {
     "name": "April 2020 - The Smallest Church In Saint-Saëns",
-    "lastUpdate": "20200401",
+    "lastUpdate": 20200401,
     "images": [
       {
         "height": 640,
@@ -1333,39 +1116,8 @@
     "id": "c417bd40-1626-4fcb-bf66-800ff6feff49"
   },
   {
-    "name": "Everything from playlist galore 2019",
-    "lastUpdate": "20191231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27307235f3931b9500e84422fc3ab67616d0000b273386564d99f4e6f0e41a4a01aab67616d0000b2734dd672d51ebd8976e0530956ab67616d0000b27350bc8ef82d299d7d8933b012",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27307235f3931b9500e84422fc3ab67616d0000b273386564d99f4e6f0e41a4a01aab67616d0000b2734dd672d51ebd8976e0530956ab67616d0000b27350bc8ef82d299d7d8933b012",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27307235f3931b9500e84422fc3ab67616d0000b273386564d99f4e6f0e41a4a01aab67616d0000b2734dd672d51ebd8976e0530956ab67616d0000b27350bc8ef82d299d7d8933b012",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 128,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/4dCs6Y3fDG7fYZFYyDunRS",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLxSsnalkxzsCZn0MV084P2",
-      "deezer": "https://deezer.page.link/esonMD8z75Mh2ndK9",
-      "tidal": "https://tidal.com/browse/playlist/0a41e841-5f54-476b-877e-6a2e39e72f3c"
-    },
-    "id": "e45240e0-775d-45d8-b430-fdd4cab92708"
-  },
-  {
     "name": "December 2019 - Le temps arrange ces choses là",
-    "lastUpdate": "20191201",
+    "lastUpdate": 20191201,
     "images": [
       {
         "height": 640,
@@ -1396,7 +1148,7 @@
   },
   {
     "name": "October 2019 - Take me home",
-    "lastUpdate": "20191001",
+    "lastUpdate": 20191001,
     "images": [
       {
         "height": 640,
@@ -1427,7 +1179,7 @@
   },
   {
     "name": "September 2019 - Collapsing memory",
-    "lastUpdate": "20190901",
+    "lastUpdate": 20190901,
     "images": [
       {
         "height": 640,
@@ -1458,7 +1210,7 @@
   },
   {
     "name": "July 2019 - Storm coming",
-    "lastUpdate": "20190701",
+    "lastUpdate": 20190701,
     "images": [
       {
         "height": 640,
@@ -1489,7 +1241,7 @@
   },
   {
     "name": "May 2019 - Something to make us all happy",
-    "lastUpdate": "20190501",
+    "lastUpdate": 20190501,
     "images": [
       {
         "height": 640,
@@ -1520,7 +1272,7 @@
   },
   {
     "name": "March 2019 - Pour un chien qui n'en démord pas",
-    "lastUpdate": "20190301",
+    "lastUpdate": 20190301,
     "images": [
       {
         "height": 640,
@@ -1551,7 +1303,7 @@
   },
   {
     "name": "February 2019 - The shape of trance to come",
-    "lastUpdate": "20190201",
+    "lastUpdate": 20190201,
     "images": [
       {
         "height": 640,
@@ -1581,39 +1333,8 @@
     "id": "c40311e3-6dba-439c-91a8-433c11f678d0"
   },
   {
-    "name": "Everything from playlists galore 2018",
-    "lastUpdate": "20181231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27327b8f6bcf663da4e40336931ab67616d0000b2734349c04f5f9a6b26a8be2069ab67616d0000b2735c2202722e63ad9b6e4c11beab67616d0000b273cc68329bfbf34037df965dc1",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27327b8f6bcf663da4e40336931ab67616d0000b2734349c04f5f9a6b26a8be2069ab67616d0000b2735c2202722e63ad9b6e4c11beab67616d0000b273cc68329bfbf34037df965dc1",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27327b8f6bcf663da4e40336931ab67616d0000b2734349c04f5f9a6b26a8be2069ab67616d0000b2735c2202722e63ad9b6e4c11beab67616d0000b273cc68329bfbf34037df965dc1",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 164,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/4PIdEimRFlC7km9mVLaQK1",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJQVBcSjpqWMSrZ80oIaCOr",
-      "deezer": "https://deezer.page.link/cKG4sQXgEui2RGhFA",
-      "tidal": "https://tidal.com/browse/playlist/7e25b7f0-9490-48c4-8a0f-7dea5121eab5"
-    },
-    "id": "5422aecc-294b-4557-8f52-14d5d2db6218"
-  },
-  {
     "name": "November 2018 - Impossible, you say?",
-    "lastUpdate": "20181101",
+    "lastUpdate": 20181101,
     "images": [
       {
         "height": 640,
@@ -1644,7 +1365,7 @@
   },
   {
     "name": "October 2018 - Good night, day",
-    "lastUpdate": "20181001",
+    "lastUpdate": 20181001,
     "images": [
       {
         "height": 640,
@@ -1675,7 +1396,7 @@
   },
   {
     "name": "September 2018 - Les garçons imprudents",
-    "lastUpdate": "20180901",
+    "lastUpdate": 20180901,
     "images": [
       {
         "height": 640,
@@ -1706,7 +1427,7 @@
   },
   {
     "name": "August 2018 - Hey Moon",
-    "lastUpdate": "20180801",
+    "lastUpdate": 20180801,
     "images": [
       {
         "height": 640,
@@ -1737,7 +1458,7 @@
   },
   {
     "name": "July 2018 - You're so baby",
-    "lastUpdate": "20180701",
+    "lastUpdate": 20180701,
     "images": [
       {
         "height": 640,
@@ -1768,7 +1489,7 @@
   },
   {
     "name": "June 2018 - Goodbye to beauty",
-    "lastUpdate": "20180601",
+    "lastUpdate": 20180601,
     "images": [
       {
         "height": 640,
@@ -1799,7 +1520,7 @@
   },
   {
     "name": "April 2018 - The sunlight on your face",
-    "lastUpdate": "20180401",
+    "lastUpdate": 20180401,
     "images": [
       {
         "height": 640,
@@ -1830,7 +1551,7 @@
   },
   {
     "name": "March 2018 - Singing these lonely lullabies to you",
-    "lastUpdate": "20180301",
+    "lastUpdate": 20180301,
     "images": [
       {
         "height": 640,
@@ -1861,7 +1582,7 @@
   },
   {
     "name": "February 2018 - Innocence lost",
-    "lastUpdate": "20180201",
+    "lastUpdate": 20180201,
     "images": [
       {
         "height": 640,
@@ -1891,39 +1612,8 @@
     "id": "8aeac173-72bc-4cf1-9356-9100aaca3b4d"
   },
   {
-    "name": "Everything from playlists galore 2017",
-    "lastUpdate": "20171231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733d0b7a7bb2acbda01162225cab67616d0000b273640ce3531798c73d5a1da037ab67616d0000b273945696d01c650eeade335ac9ab67616d0000b273f4a72e9d95c1121bc8b145b7",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733d0b7a7bb2acbda01162225cab67616d0000b273640ce3531798c73d5a1da037ab67616d0000b273945696d01c650eeade335ac9ab67616d0000b273f4a72e9d95c1121bc8b145b7",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733d0b7a7bb2acbda01162225cab67616d0000b273640ce3531798c73d5a1da037ab67616d0000b273945696d01c650eeade335ac9ab67616d0000b273f4a72e9d95c1121bc8b145b7",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 90,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/3j2FzR3yjSTSGdeO5OofhP",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIB5l8M0l_WBgP2RrFydSDl",
-      "deezer": "https://deezer.page.link/41yfwok192KFp18c8",
-      "tidal": "https://tidal.com/browse/playlist/db0744b8-7bf4-4fc6-8239-08bb825f0294"
-    },
-    "id": "e85175af-f8e8-4960-9e8f-6993e29f8ec5"
-  },
-  {
     "name": "December 2017 - Pretty rough hours",
-    "lastUpdate": "20171201",
+    "lastUpdate": 20171201,
     "images": [
       {
         "height": 640,
@@ -1954,7 +1644,7 @@
   },
   {
     "name": "November 2017 - Random words",
-    "lastUpdate": "20171101",
+    "lastUpdate": 20171101,
     "images": [
       {
         "height": 640,
@@ -1985,7 +1675,7 @@
   },
   {
     "name": "October 2017 - Shadows still with us",
-    "lastUpdate": "20171001",
+    "lastUpdate": 20171001,
     "images": [
       {
         "height": 640,
@@ -2016,7 +1706,7 @@
   },
   {
     "name": "September 2017 - New York isn't New York Without you, love",
-    "lastUpdate": "20170901",
+    "lastUpdate": 20170901,
     "images": [
       {
         "height": 640,
@@ -2047,7 +1737,7 @@
   },
   {
     "name": "August 2017 - What's a song without you?",
-    "lastUpdate": "20170801",
+    "lastUpdate": 20170801,
     "images": [
       {
         "height": 640,
@@ -2077,39 +1767,8 @@
     "id": "5b726bf1-0b49-4ce6-8ea9-7fd604e4f65a"
   },
   {
-    "name": "Everything from playlists galore 2016",
-    "lastUpdate": "20161231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731c5b33cff628b59209171ea6ab67616d0000b27328d7d304f978787274a355aeab67616d0000b273296dda28780aec1fa9efb711ab67616d0000b2736abcebae84aa6cbcc4291eec",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731c5b33cff628b59209171ea6ab67616d0000b27328d7d304f978787274a355aeab67616d0000b273296dda28780aec1fa9efb711ab67616d0000b2736abcebae84aa6cbcc4291eec",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731c5b33cff628b59209171ea6ab67616d0000b27328d7d304f978787274a355aeab67616d0000b273296dda28780aec1fa9efb711ab67616d0000b2736abcebae84aa6cbcc4291eec",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 478,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/2M4HMj40ogMCcg0tOvbYqK",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKi0cF0mcTT6bfuf5gcC9k8",
-      "deezer": "https://deezer.page.link/mgYLSit34x5i2ckt6",
-      "tidal": "https://tidal.com/browse/playlist/8364e7be-8449-42cc-9452-565607d7b09b"
-    },
-    "id": "4bbcf855-638f-4993-b092-527a1b9753df"
-  },
-  {
     "name": "December 2016 - For the damaged coda",
-    "lastUpdate": "20161201",
+    "lastUpdate": 20161201,
     "images": [
       {
         "height": 640,
@@ -2140,7 +1799,7 @@
   },
   {
     "name": "November 2016 - Hypernuit",
-    "lastUpdate": "20161101",
+    "lastUpdate": 20161101,
     "images": [
       {
         "height": 640,
@@ -2171,7 +1830,7 @@
   },
   {
     "name": "October 2016 - The last night of all nights",
-    "lastUpdate": "20161001",
+    "lastUpdate": 20161001,
     "images": [
       {
         "height": 640,
@@ -2202,7 +1861,7 @@
   },
   {
     "name": "September 2016 - I backed my car into a cop car the other day",
-    "lastUpdate": "20160901",
+    "lastUpdate": 20160901,
     "images": [
       {
         "height": 640,
@@ -2233,7 +1892,7 @@
   },
   {
     "name": "August 2016 - Space to Bakersfield",
-    "lastUpdate": "20160801",
+    "lastUpdate": 20160801,
     "images": [
       {
         "height": 640,
@@ -2264,7 +1923,7 @@
   },
   {
     "name": "July 2016 - Have yourself a good time",
-    "lastUpdate": "20160701",
+    "lastUpdate": 20160701,
     "images": [
       {
         "height": 640,
@@ -2295,7 +1954,7 @@
   },
   {
     "name": "June 2016 - How the hell was I suppose to know how to steer the ship?",
-    "lastUpdate": "20160601",
+    "lastUpdate": 20160601,
     "images": [
       {
         "height": 640,
@@ -2326,7 +1985,7 @@
   },
   {
     "name": "May 2016 -  So whether music or madness",
-    "lastUpdate": "20160501",
+    "lastUpdate": 20160501,
     "images": [
       {
         "height": 640,
@@ -2357,7 +2016,7 @@
   },
   {
     "name": "April 2016 - Swimming in Seattle",
-    "lastUpdate": "20160401",
+    "lastUpdate": 20160401,
     "images": [
       {
         "height": 640,
@@ -2388,7 +2047,7 @@
   },
   {
     "name": "March 2016 - From my window to yours",
-    "lastUpdate": "20160301",
+    "lastUpdate": 20160301,
     "images": [
       {
         "height": 640,
@@ -2419,7 +2078,7 @@
   },
   {
     "name": "February 2016 - Just another story",
-    "lastUpdate": "20160201",
+    "lastUpdate": 20160201,
     "images": [
       {
         "height": 640,
@@ -2450,7 +2109,7 @@
   },
   {
     "name": "January 2016 - In the shadow of Mount Rainier",
-    "lastUpdate": "20160101",
+    "lastUpdate": 20160101,
     "images": [
       {
         "height": 640,
@@ -2480,39 +2139,8 @@
     "id": "c47aa0ed-ea62-4e7b-9e7f-7693e0359cf9"
   },
   {
-    "name": "Everything from Playlists Galore 2013-2015",
-    "lastUpdate": "20151231",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730fe62e9afb4ae8f52a241d33ab67616d0000b2732a0fb4b4d90f411f9b04a996ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d0535e1261840a3994463e8e",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730fe62e9afb4ae8f52a241d33ab67616d0000b2732a0fb4b4d90f411f9b04a996ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d0535e1261840a3994463e8e",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730fe62e9afb4ae8f52a241d33ab67616d0000b2732a0fb4b4d90f411f9b04a996ab67616d0000b2739a2c40b6a1af4a92aac991c5ab67616d0000b273d0535e1261840a3994463e8e",
-        "width": 60
-      }
-    ],
-    "category": "yearly",
-    "tags": [],
-    "totalTracks": 1040,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/5lrFtHFWL2RNyGeYOqFCNQ",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIW0t8atAOQgIw3AAMLgd3b",
-      "deezer": "https://deezer.page.link/Co8W1QfcxzLJCx9g9",
-      "tidal": "https://tidal.com/browse/playlist/49d10629-4fee-43bb-9626-9f8fc429d4ee"
-    },
-    "id": "9011848a-4610-4e01-b8f7-5833f678730c"
-  },
-  {
     "name": "Weekend playlist [04-12-2015]",
-    "lastUpdate": "20151204",
+    "lastUpdate": 20151204,
     "images": [
       {
         "height": 640,
@@ -2543,7 +2171,7 @@
   },
   {
     "name": "Weekend playlist [20-11-2015]",
-    "lastUpdate": "20151120",
+    "lastUpdate": 20151120,
     "images": [
       {
         "height": 640,
@@ -2574,7 +2202,7 @@
   },
   {
     "name": "Weekend playlist [06-11-2015]",
-    "lastUpdate": "20151106",
+    "lastUpdate": 20151106,
     "images": [
       {
         "height": 640,
@@ -2605,7 +2233,7 @@
   },
   {
     "name": "Playlist Jazz #1 [30-10-2015]",
-    "lastUpdate": "20151030",
+    "lastUpdate": 20151030,
     "images": [
       {
         "height": 640,
@@ -2624,9 +2252,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "jazz"
-    ],
+    "tags": ["jazz"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2t4fPapzbiGB90GQm4idQj",
@@ -2638,7 +2264,7 @@
   },
   {
     "name": "Weekend playlist [16-10-2015]",
-    "lastUpdate": "20151016",
+    "lastUpdate": 20151016,
     "images": [
       {
         "height": 640,
@@ -2669,7 +2295,7 @@
   },
   {
     "name": "Weekend playlist [18-09-2015]",
-    "lastUpdate": "20150918",
+    "lastUpdate": 20150918,
     "images": [
       {
         "height": 640,
@@ -2700,7 +2326,7 @@
   },
   {
     "name": "Weekend playlist [04-09-2015]",
-    "lastUpdate": "20150904",
+    "lastUpdate": 20150904,
     "images": [
       {
         "height": 640,
@@ -2731,7 +2357,7 @@
   },
   {
     "name": "Weekend playlist [21-08-2015]",
-    "lastUpdate": "20150821",
+    "lastUpdate": 20150821,
     "images": [
       {
         "height": 640,
@@ -2762,7 +2388,7 @@
   },
   {
     "name": "Weekend playlist [31-07-2015]",
-    "lastUpdate": "20150731",
+    "lastUpdate": 20150731,
     "images": [
       {
         "height": 640,
@@ -2793,7 +2419,7 @@
   },
   {
     "name": "Weekend playlist [17-07-2015]",
-    "lastUpdate": "20150717",
+    "lastUpdate": 20150717,
     "images": [
       {
         "height": 640,
@@ -2824,7 +2450,7 @@
   },
   {
     "name": "Weekend playlist [26-06-2015]",
-    "lastUpdate": "20150626",
+    "lastUpdate": 20150626,
     "images": [
       {
         "height": 640,
@@ -2855,7 +2481,7 @@
   },
   {
     "name": "Weekend playlist [14-05-2015]",
-    "lastUpdate": "20150514",
+    "lastUpdate": 20150514,
     "images": [
       {
         "height": 640,
@@ -2886,7 +2512,7 @@
   },
   {
     "name": "Rock etc. [01-05-2015]",
-    "lastUpdate": "20150501",
+    "lastUpdate": 20150501,
     "images": [
       {
         "height": 640,
@@ -2905,9 +2531,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0u2kvluf1flr9fOuDaDxD1",
@@ -2919,7 +2543,7 @@
   },
   {
     "name": "Weekend playlist [04-04-2015]",
-    "lastUpdate": "20150404",
+    "lastUpdate": 20150404,
     "images": [
       {
         "height": 640,
@@ -2950,7 +2574,7 @@
   },
   {
     "name": "Weekend playlist [21-03-2015]",
-    "lastUpdate": "20150321",
+    "lastUpdate": 20150321,
     "images": [
       {
         "height": 640,
@@ -2981,7 +2605,7 @@
   },
   {
     "name": "Weekend playlist [28-02-2015]",
-    "lastUpdate": "20150228",
+    "lastUpdate": 20150228,
     "images": [
       {
         "height": 640,
@@ -3012,7 +2636,7 @@
   },
   {
     "name": "Weekend playlist [09-02-2015]",
-    "lastUpdate": "20150209",
+    "lastUpdate": 20150209,
     "images": [
       {
         "height": 640,
@@ -3043,7 +2667,7 @@
   },
   {
     "name": "Weekend playlist [19-12-2014]",
-    "lastUpdate": "20141219",
+    "lastUpdate": 20141219,
     "images": [
       {
         "height": 640,
@@ -3074,7 +2698,7 @@
   },
   {
     "name": "Weekend playlist [06-12-2014]",
-    "lastUpdate": "20141206",
+    "lastUpdate": 20141206,
     "images": [
       {
         "height": 640,
@@ -3105,7 +2729,7 @@
   },
   {
     "name": "Weekend playlist [15-11-2014]",
-    "lastUpdate": "20141115",
+    "lastUpdate": 20141115,
     "images": [
       {
         "height": 640,
@@ -3136,7 +2760,7 @@
   },
   {
     "name": "Weekend playlist [31-10-2014]",
-    "lastUpdate": "20141031",
+    "lastUpdate": 20141031,
     "images": [
       {
         "height": 640,
@@ -3167,7 +2791,7 @@
   },
   {
     "name": "Weekend playlist [11-10-2014]",
-    "lastUpdate": "20141011",
+    "lastUpdate": 20141011,
     "images": [
       {
         "height": 640,
@@ -3198,7 +2822,7 @@
   },
   {
     "name": "Weekend playlist [27-09-2014]",
-    "lastUpdate": "20140927",
+    "lastUpdate": 20140927,
     "images": [
       {
         "height": 640,
@@ -3229,7 +2853,7 @@
   },
   {
     "name": "Rock etc. [13-09-2014]",
-    "lastUpdate": "20140913",
+    "lastUpdate": 20140913,
     "images": [
       {
         "height": 640,
@@ -3248,9 +2872,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4y8SSU13WVtZlF9ypsYMnP",
@@ -3262,7 +2884,7 @@
   },
   {
     "name": "Weekend playlist [06-09-2014]",
-    "lastUpdate": "20140906",
+    "lastUpdate": 20140906,
     "images": [
       {
         "height": 640,
@@ -3293,7 +2915,7 @@
   },
   {
     "name": "Weekend playlist [21-06-2014]",
-    "lastUpdate": "20140621",
+    "lastUpdate": 20140621,
     "images": [
       {
         "height": 640,
@@ -3312,9 +2934,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "chill"
-    ],
+    "tags": ["chill"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/03pi1md4GZ4yzlCl9khl3B",
@@ -3326,7 +2946,7 @@
   },
   {
     "name": "Weekend playlist [06-06-2014]",
-    "lastUpdate": "20140606",
+    "lastUpdate": 20140606,
     "images": [
       {
         "height": 640,
@@ -3357,7 +2977,7 @@
   },
   {
     "name": "Weekend playlist [24-05-2014]",
-    "lastUpdate": "20140524",
+    "lastUpdate": 20140524,
     "images": [
       {
         "height": 640,
@@ -3388,7 +3008,7 @@
   },
   {
     "name": "Heavy boots [07-04-2014]",
-    "lastUpdate": "20140407",
+    "lastUpdate": 20140407,
     "images": [
       {
         "height": 640,
@@ -3407,9 +3027,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "melancholy"
-    ],
+    "tags": ["melancholy"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4Wh1EI3BwGBKJYsPQ6VeJX",
@@ -3421,7 +3039,7 @@
   },
   {
     "name": "Weekend playlist [05-04-2014]",
-    "lastUpdate": "20140405",
+    "lastUpdate": 20140405,
     "images": [
       {
         "height": 640,
@@ -3452,7 +3070,7 @@
   },
   {
     "name": "Weekend playlist [29-03-2014]",
-    "lastUpdate": "20140329",
+    "lastUpdate": 20140329,
     "images": [
       {
         "height": 640,
@@ -3483,7 +3101,7 @@
   },
   {
     "name": "Weekend playlist [22-03-2014]",
-    "lastUpdate": "20140322",
+    "lastUpdate": 20140322,
     "images": [
       {
         "height": 640,
@@ -3514,7 +3132,7 @@
   },
   {
     "name": "weekend playlist [15-03-2014]",
-    "lastUpdate": "20140315",
+    "lastUpdate": 20140315,
     "images": [
       {
         "height": 640,
@@ -3545,7 +3163,7 @@
   },
   {
     "name": "Weekend playlist [28-02-2014]",
-    "lastUpdate": "20140228",
+    "lastUpdate": 20140228,
     "images": [
       {
         "height": 640,
@@ -3576,7 +3194,7 @@
   },
   {
     "name": "Weekend playlist [22-02-2014]",
-    "lastUpdate": "20140222",
+    "lastUpdate": 20140222,
     "images": [
       {
         "height": 640,
@@ -3607,7 +3225,7 @@
   },
   {
     "name": "Weekend playlist [15-02-2014]",
-    "lastUpdate": "20140215",
+    "lastUpdate": 20140215,
     "images": [
       {
         "height": 640,
@@ -3638,7 +3256,7 @@
   },
   {
     "name": "Weekend playlist [08-02-2014]",
-    "lastUpdate": "20140208",
+    "lastUpdate": 20140208,
     "images": [
       {
         "height": 640,
@@ -3669,7 +3287,7 @@
   },
   {
     "name": "Weekend playlist [01-02-2014]",
-    "lastUpdate": "20140201",
+    "lastUpdate": 20140201,
     "images": [
       {
         "height": 640,
@@ -3700,7 +3318,7 @@
   },
   {
     "name": "Weekend playlist [25-01-2014]",
-    "lastUpdate": "20140125",
+    "lastUpdate": 20140125,
     "images": [
       {
         "height": 640,
@@ -3731,7 +3349,7 @@
   },
   {
     "name": "Weekend Playlist [18-01-2014]",
-    "lastUpdate": "20140118",
+    "lastUpdate": 20140118,
     "images": [
       {
         "height": 640,
@@ -3762,7 +3380,7 @@
   },
   {
     "name": "Weekend playlist [11-01-2014]",
-    "lastUpdate": "20140111",
+    "lastUpdate": 20140111,
     "images": [
       {
         "height": 640,
@@ -3793,7 +3411,7 @@
   },
   {
     "name": "Weekend playlist [04-01-2014]",
-    "lastUpdate": "20140104",
+    "lastUpdate": 20140104,
     "images": [
       {
         "height": 640,
@@ -3824,7 +3442,7 @@
   },
   {
     "name": "Acoustic times [14-12-2013]",
-    "lastUpdate": "20131214",
+    "lastUpdate": 20131214,
     "images": [
       {
         "height": 640,
@@ -3843,9 +3461,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "acoustic"
-    ],
+    "tags": ["acoustic"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0vz8J0kqy76hlv77xvQpIi",
@@ -3857,7 +3473,7 @@
   },
   {
     "name": "Weekend playlist [07-12-2013]",
-    "lastUpdate": "20131207",
+    "lastUpdate": 20131207,
     "images": [
       {
         "height": 640,
@@ -3888,7 +3504,7 @@
   },
   {
     "name": "Weekend playlist [30-11-2013]",
-    "lastUpdate": "20131130",
+    "lastUpdate": 20131130,
     "images": [
       {
         "height": 640,
@@ -3919,7 +3535,7 @@
   },
   {
     "name": "Weekend playlist [23-11-2013]",
-    "lastUpdate": "20131123",
+    "lastUpdate": 20131123,
     "images": [
       {
         "height": 640,
@@ -3950,7 +3566,7 @@
   },
   {
     "name": "Weekend playlist [16-11-2013]",
-    "lastUpdate": "20131116",
+    "lastUpdate": 20131116,
     "images": [
       {
         "height": 640,
@@ -3981,7 +3597,7 @@
   },
   {
     "name": "Weekend playlist [09-11-2013]",
-    "lastUpdate": "20131109",
+    "lastUpdate": 20131109,
     "images": [
       {
         "height": 640,
@@ -4012,7 +3628,7 @@
   },
   {
     "name": "Weekend playlist [26-10-2013]",
-    "lastUpdate": "20131026",
+    "lastUpdate": 20131026,
     "images": [
       {
         "height": 640,
@@ -4043,7 +3659,7 @@
   },
   {
     "name": "Heavy boots [21-10-2013]",
-    "lastUpdate": "20131021",
+    "lastUpdate": 20131021,
     "images": [
       {
         "height": 640,
@@ -4062,9 +3678,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "melancholy"
-    ],
+    "tags": ["melancholy"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3lZRxEmFaLqO8N6mnlEUPT",
@@ -4076,7 +3690,7 @@
   },
   {
     "name": "Acoustic times  [19-10-2013]",
-    "lastUpdate": "20131019",
+    "lastUpdate": 20131019,
     "images": [
       {
         "height": 640,
@@ -4095,9 +3709,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "acoustic"
-    ],
+    "tags": ["acoustic"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/17VrWwoPgH9vd0qzQJbznP",
@@ -4109,7 +3721,7 @@
   },
   {
     "name": "Weekend playlist [12-10-2013]",
-    "lastUpdate": "20131012",
+    "lastUpdate": 20131012,
     "images": [
       {
         "height": 640,
@@ -4140,7 +3752,7 @@
   },
   {
     "name": "Rock etc. [10-10-2013]",
-    "lastUpdate": "20131010",
+    "lastUpdate": 20131010,
     "images": [
       {
         "height": 640,
@@ -4159,9 +3771,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2f3XDqoaEnWXKB4FOJ1J7S",
@@ -4173,7 +3783,7 @@
   },
   {
     "name": "Weekend playlist [05-10-2013]",
-    "lastUpdate": "20131005",
+    "lastUpdate": 20131005,
     "images": [
       {
         "height": 640,
@@ -4204,7 +3814,7 @@
   },
   {
     "name": "Weekend playlist [28-09-2013]",
-    "lastUpdate": "20130928",
+    "lastUpdate": 20130928,
     "images": [
       {
         "height": 640,
@@ -4235,7 +3845,7 @@
   },
   {
     "name": "Weekend playlist [21-09-2013]",
-    "lastUpdate": "20130921",
+    "lastUpdate": 20130921,
     "images": [
       {
         "height": 640,
@@ -4267,7 +3877,7 @@
   },
   {
     "name": "Weekend playlist [14-09-2013]",
-    "lastUpdate": "20130914",
+    "lastUpdate": 20130914,
     "images": [
       {
         "height": 640,
@@ -4299,7 +3909,7 @@
   },
   {
     "name": "Weekend playlist [07-09-2013]",
-    "lastUpdate": "20130907",
+    "lastUpdate": 20130907,
     "images": [
       {
         "height": 640,
@@ -4331,7 +3941,7 @@
   },
   {
     "name": "Weekend playlist [03-08-2013]",
-    "lastUpdate": "20130803",
+    "lastUpdate": 20130803,
     "images": [
       {
         "height": 640,
@@ -4363,7 +3973,7 @@
   },
   {
     "name": "Weekend playlist [27-07-2013]",
-    "lastUpdate": "20130727",
+    "lastUpdate": 20130727,
     "images": [
       {
         "height": 640,
@@ -4395,7 +4005,7 @@
   },
   {
     "name": "Weekend playlist [20-07-2013]",
-    "lastUpdate": "20130720",
+    "lastUpdate": 20130720,
     "images": [
       {
         "height": 640,
@@ -4427,7 +4037,7 @@
   },
   {
     "name": "Weekend playlist [13-07-2013]",
-    "lastUpdate": "20130713",
+    "lastUpdate": 20130713,
     "images": [
       {
         "height": 640,
@@ -4459,7 +4069,7 @@
   },
   {
     "name": "Weekend playlist [06-07-2013]",
-    "lastUpdate": "20130706",
+    "lastUpdate": 20130706,
     "images": [
       {
         "height": 640,
@@ -4491,7 +4101,7 @@
   },
   {
     "name": "Weekend playlist [30-06-2013]",
-    "lastUpdate": "20130630",
+    "lastUpdate": 20130630,
     "images": [
       {
         "height": 640,
@@ -4523,7 +4133,7 @@
   },
   {
     "name": "Weekend playlist [23-06-2013]",
-    "lastUpdate": "20130623",
+    "lastUpdate": 20130623,
     "images": [
       {
         "height": 640,
@@ -4555,7 +4165,7 @@
   },
   {
     "name": "Rock etc. [19-06-2013]",
-    "lastUpdate": "20130619",
+    "lastUpdate": 20130619,
     "images": [
       {
         "height": 640,
@@ -4574,9 +4184,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5VlqAbW3w1yNWNn5lohybJ",
@@ -4589,7 +4197,7 @@
   },
   {
     "name": "Weekend Playlist [16-06-2013]",
-    "lastUpdate": "20130616",
+    "lastUpdate": 20130616,
     "images": [
       {
         "height": 640,
@@ -4621,7 +4229,7 @@
   },
   {
     "name": "Rock etc. [12-06-2013]",
-    "lastUpdate": "20130612",
+    "lastUpdate": 20130612,
     "images": [
       {
         "height": 640,
@@ -4640,9 +4248,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "rock"
-    ],
+    "tags": ["rock"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2Dpi2eoluyUBD0gocIMFwH",
@@ -4655,7 +4261,7 @@
   },
   {
     "name": "Weekend Playlist [09-06-2013]",
-    "lastUpdate": "20130609",
+    "lastUpdate": 20130609,
     "images": [
       {
         "height": 640,
@@ -4687,7 +4293,7 @@
   },
   {
     "name": "Acoustic Times [05-06-2013]",
-    "lastUpdate": "20130605",
+    "lastUpdate": 20130605,
     "images": [
       {
         "height": 640,
@@ -4706,9 +4312,7 @@
       }
     ],
     "category": "weekly",
-    "tags": [
-      "acoustic"
-    ],
+    "tags": ["acoustic"],
     "totalTracks": 11,
     "url": {
       "spotify": "https://open.spotify.com/playlist/75Ijvw0cwNsLoGTXdhWZWd",
@@ -4721,7 +4325,7 @@
   },
   {
     "name": "Weekend playlist [02-06-2013]",
-    "lastUpdate": "20130602",
+    "lastUpdate": 20130602,
     "images": [
       {
         "height": 640,
@@ -4753,7 +4357,7 @@
   },
   {
     "name": "Weekend playlist [26-05-2013]",
-    "lastUpdate": "20130526",
+    "lastUpdate": 20130526,
     "images": [
       {
         "height": 640,
@@ -4785,7 +4389,7 @@
   },
   {
     "name": "Weekend playlist [19-05-2013]",
-    "lastUpdate": "20130519",
+    "lastUpdate": 20130519,
     "images": [
       {
         "height": 640,
@@ -4817,7 +4421,7 @@
   },
   {
     "name": "Weekend playlist [12-05-2013]",
-    "lastUpdate": "20130512",
+    "lastUpdate": 20130512,
     "images": [
       {
         "height": 640,
@@ -4849,7 +4453,7 @@
   },
   {
     "name": "Weekend playlist [05-05-2013]",
-    "lastUpdate": "20130505",
+    "lastUpdate": 20130505,
     "images": [
       {
         "height": 640,
@@ -4881,7 +4485,7 @@
   },
   {
     "name": "Weekend playlist [28-04-2013]",
-    "lastUpdate": "20130428",
+    "lastUpdate": 20130428,
     "images": [
       {
         "height": 640,
@@ -4910,310 +4514,5 @@
       "tidal": "https://tidal.com/browse/playlist/d75ede2e-5fbf-4b0e-b03c-e6d084cdb5be"
     },
     "id": "741e7a51-4e5f-440a-a1b6-7e3c1d4224f8"
-  },
-  {
-    "name": "Songs For Sunny Days",
-    "lastUpdate": "20140628",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730a719f2817838a22e6a7e8c9ab67616d0000b27340404a50cc12e75859d1dcc0ab67616d0000b2734e85d671974cb8fed8d31eabab67616d0000b2736eba1a0996d9e69ad20ec88b",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730a719f2817838a22e6a7e8c9ab67616d0000b27340404a50cc12e75859d1dcc0ab67616d0000b2734e85d671974cb8fed8d31eabab67616d0000b2736eba1a0996d9e69ad20ec88b",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730a719f2817838a22e6a7e8c9ab67616d0000b27340404a50cc12e75859d1dcc0ab67616d0000b2734e85d671974cb8fed8d31eabab67616d0000b2736eba1a0996d9e69ad20ec88b",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 19,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/5uSuXpXaF9l4KUKndnFb6J",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSK4wDILF3MRQjkO2QmPwaaU",
-      "deezer": "https://deezer.page.link/RrgYrhQWjWm9CfPy5",
-      "tidal": "https://tidal.com/browse/playlist/3a02cf73-5b4c-4873-961a-4cdf53262276"
-    },
-    "id": "704d51ac-4f03-4839-a91b-c4e993572fd9"
-  },
-  {
-    "name": "Sunny Side Up, part 1 - Ocean",
-    "lastUpdate": "20140317",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27339eaffcfbe2373e4dcbfc723ab67616d0000b2737f86e909c35dbdc9b670d7a6ab67616d0000b273a38f4c1b8f53a2f792ffb561ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27339eaffcfbe2373e4dcbfc723ab67616d0000b2737f86e909c35dbdc9b670d7a6ab67616d0000b273a38f4c1b8f53a2f792ffb561ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27339eaffcfbe2373e4dcbfc723ab67616d0000b2737f86e909c35dbdc9b670d7a6ab67616d0000b273a38f4c1b8f53a2f792ffb561ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 20,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/2vIrBMLyph3sj6JrdERdj6",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLcKNUDnqPv_5Dbg7WTHSBx",
-      "deezer": "https://deezer.page.link/q3Q5yvhky6JyANVw7",
-      "tidal": "https://tidal.com/browse/playlist/b35938ff-29a9-46a7-a231-1ce8b6846240"
-    },
-    "id": "e95b80d9-1440-40c7-adf6-2d36e1ff722d"
-  },
-  {
-    "name": "Sunny Side Up, part 2 - Waves",
-    "lastUpdate": "20140318",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bb55c056ec68c6b0251c672ab67616d0000b273550133f6d334ed152d75aa56ab67616d0000b273867b90cf936464132b422345ab67616d0000b273ea1cf454ec02367d76573c4f",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bb55c056ec68c6b0251c672ab67616d0000b273550133f6d334ed152d75aa56ab67616d0000b273867b90cf936464132b422345ab67616d0000b273ea1cf454ec02367d76573c4f",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bb55c056ec68c6b0251c672ab67616d0000b273550133f6d334ed152d75aa56ab67616d0000b273867b90cf936464132b422345ab67616d0000b273ea1cf454ec02367d76573c4f",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 20,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/0B62poAYg53NCQx8l6mMuM",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJEhF_1olLQKAWTGm1mBJEo",
-      "deezer": "https://deezer.page.link/yvTm2bojQjL4wMkZ8",
-      "tidal": "https://tidal.com/browse/playlist/5ce5c89c-38cf-4223-9245-912ea2880d80"
-    },
-    "id": "c8fd23f5-6269-4096-8834-d766a959e1fc"
-  },
-  {
-    "name": "Our beautiful ridiculous plans",
-    "lastUpdate": "20160219",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b27321c8fd8cba79e6aaccc8ebf8ab67616d0000b27343aafb2edd88b9447f49337dab67616d0000b2735a902940f70dace67d4c4547ab67616d0000b273888984c673d091de82093c27",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b27321c8fd8cba79e6aaccc8ebf8ab67616d0000b27343aafb2edd88b9447f49337dab67616d0000b2735a902940f70dace67d4c4547ab67616d0000b273888984c673d091de82093c27",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b27321c8fd8cba79e6aaccc8ebf8ab67616d0000b27343aafb2edd88b9447f49337dab67616d0000b2735a902940f70dace67d4c4547ab67616d0000b273888984c673d091de82093c27",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [
-      "melancholy"
-    ],
-    "totalTracks": 17,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/6gWl98nUazP4oT0VJGuNY4",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIywpzaNcgEEVB27mf-tnuh",
-      "deezer": "https://deezer.page.link/zmb58bySuokWTLoL8",
-      "tidal": "https://tidal.com/browse/playlist/de8ae243-e8e7-41b6-a8a2-911dc6937e77"
-    },
-    "id": "264f387f-1954-4b60-ae20-dcd4a75ded8b"
-  },
-  {
-    "name": "Over And Out",
-    "lastUpdate": "20141105",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b273249e18bd7db232c8384924ceab67616d0000b273a5818379975d1815f7f4e1b2ab67616d0000b273ea4a809945577485a4f67e25ab67616d0000b273fedf50b4492ace75c44ec6e1",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b273249e18bd7db232c8384924ceab67616d0000b273a5818379975d1815f7f4e1b2ab67616d0000b273ea4a809945577485a4f67e25ab67616d0000b273fedf50b4492ace75c44ec6e1",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b273249e18bd7db232c8384924ceab67616d0000b273a5818379975d1815f7f4e1b2ab67616d0000b273ea4a809945577485a4f67e25ab67616d0000b273fedf50b4492ace75c44ec6e1",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [
-      "melancholy"
-    ],
-    "totalTracks": 16,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/663kjSS1FVatOYHMtHeogE",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLGFatea06RXFAb1Yp1UGc4",
-      "deezer": "https://deezer.page.link/Yc2QMQ983RgPwwUV9",
-      "tidal": "https://tidal.com/browse/playlist/77eb6e4a-0c70-4df0-bba3-45d0a6271d7a"
-    },
-    "id": "9d1e5c37-230f-42b6-a968-4cb7375b801c"
-  },
-  {
-    "name": "D/\\nCe",
-    "lastUpdate": "20221229",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731e59786a357e89cac748f317ab67616d0000b273235e762de339c6076aa824ddab67616d0000b2738e9207484b4e41926b613103ab67616d0000b273ee0d0dce888c6c8a70db6e8b",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731e59786a357e89cac748f317ab67616d0000b273235e762de339c6076aa824ddab67616d0000b2738e9207484b4e41926b613103ab67616d0000b273ee0d0dce888c6c8a70db6e8b",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731e59786a357e89cac748f317ab67616d0000b273235e762de339c6076aa824ddab67616d0000b2738e9207484b4e41926b613103ab67616d0000b273ee0d0dce888c6c8a70db6e8b",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 25,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/565d22AZojeZyx5RBTqhg6",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJeqC-7mrddvRWD0qODIpwT",
-      "deezer": "https://deezer.page.link/565sRnsxLDcNJmgXA",
-      "tidal": "https://tidal.com/browse/playlist/deac3ac9-ab19-437f-af6d-5e829123fb12"
-    },
-    "id": "cf5fe63e-301b-41e6-968d-48ec52ded04a"
-  },
-  {
-    "name": "Bruce Springsteen - studio versions [10-2014]",
-    "lastUpdate": "20141001",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730e987064364e2b62ae1925b4ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2738935cadb8e3e20d9fab4582eab67616d0000b273e2bb936c55fb54b0b9fdc666",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730e987064364e2b62ae1925b4ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2738935cadb8e3e20d9fab4582eab67616d0000b273e2bb936c55fb54b0b9fdc666",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730e987064364e2b62ae1925b4ab67616d0000b273503143a281a3f30268dcd9f9ab67616d0000b2738935cadb8e3e20d9fab4582eab67616d0000b273e2bb936c55fb54b0b9fdc666",
-        "width": 60
-      }
-    ],
-    "category": "artist",
-    "tags": [],
-    "totalTracks": 30,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/0XuAhVmMBilCYYzBwq3zAW",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKAO4Mq1F7qpxOL9aHjSBAW",
-      "deezer": "https://deezer.page.link/2R7EmgbFc7Zqip6GA",
-      "tidal": "https://tidal.com/browse/playlist/051f073f-3466-4513-9609-d7637b5ea1b6"
-    },
-    "id": "6804ec6d-754f-4059-b159-647a97af69a5"
-  },
-  {
-    "name": "Seattle bands [08-2013]",
-    "lastUpdate": "20130701",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733f75e6d2ec7582778c4ac67fab67616d0000b273658818c29a0b677a54973363ab67616d0000b273e24a7eeca7a6ec51f00feeefab67616d0000b273ed698663b54902f1e4937a36",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733f75e6d2ec7582778c4ac67fab67616d0000b273658818c29a0b677a54973363ab67616d0000b273e24a7eeca7a6ec51f00feeefab67616d0000b273ed698663b54902f1e4937a36",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733f75e6d2ec7582778c4ac67fab67616d0000b273658818c29a0b677a54973363ab67616d0000b273e24a7eeca7a6ec51f00feeefab67616d0000b273ed698663b54902f1e4937a36",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 14,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/3lRMjyAslRHxED4n0AhNU4",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJXqwPi9Ipbr5QpcuZAkc-y",
-      "deezer": "https://deezer.page.link/1JZJj8TsTMPZxQ95A",
-      "tidal": "https://tidal.com/browse/playlist/5b104797-0816-4484-80b2-248397cc344f"
-    },
-    "id": "daacfed9-cf86-4bad-bf83-1bc7ebbd758d"
-  },
-  {
-    "name": "American Bands [06-2013]",
-    "lastUpdate": "20130601",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://mosaic.scdn.co/640/ab67616d0000b273882cb5cdd3ab10e2327988bfab67616d0000b273996511f127936c878b380a21ab67616d0000b273a91e8d79776c6f83fa22ce72ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 640
-      },
-      {
-        "height": 300,
-        "url": "https://mosaic.scdn.co/300/ab67616d0000b273882cb5cdd3ab10e2327988bfab67616d0000b273996511f127936c878b380a21ab67616d0000b273a91e8d79776c6f83fa22ce72ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 300
-      },
-      {
-        "height": 60,
-        "url": "https://mosaic.scdn.co/60/ab67616d0000b273882cb5cdd3ab10e2327988bfab67616d0000b273996511f127936c878b380a21ab67616d0000b273a91e8d79776c6f83fa22ce72ab67616d0000b273bcf2e51e254b5bdd336c6cd9",
-        "width": 60
-      }
-    ],
-    "category": "misc.",
-    "tags": [],
-    "totalTracks": 12,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/6ll4wgIIdVS2vkppmsVDCK",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSJEJRwMN6ccstgcSh7CcjJz",
-      "deezer": "https://deezer.page.link/1PS13NHoWatf6SVH6",
-      "tidal": "https://tidal.com/browse/playlist/115a3940-f0a6-40a5-99b2-ed2897fb53ec"
-    },
-    "id": "0465a3ed-2a5b-4038-81d9-417e7b7b942f"
-  },
-  {
-    "name": "Neil Young [07-2013]",
-    "lastUpdate": "20130701",
-    "images": [
-      {
-        "height": 640,
-        "url": "https://i.scdn.co/image/ab67616d0000b27385ec0264a22d007c1cbd780c",
-        "width": 640
-      }
-    ],
-    "category": "artist",
-    "tags": [],
-    "totalTracks": 24,
-    "url": {
-      "spotify": "https://open.spotify.com/playlist/3sLZhGTPrhaiaFkOa1Z3rS",
-      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLkfG45GuOS_ainIdvlJpfB",
-      "apple": "https://music.apple.com/fr/playlist/neil-young-07-2013/pl.u-leyl0kPUMG4JKaG",
-      "deezer": "https://deezer.page.link/1qgkok5eKXgi1wTq9",
-      "tidal": "https://tidal.com/browse/playlist/a51a9657-893c-474b-8315-700fc6561f4b"
-    },
-    "id": "443f881e-206c-402a-a21a-844df754d9ce"
   }
 ]
