@@ -1,6 +1,7 @@
 ---
 // COLLECTION STEP 2: Generate pages from a collection
 import { getCollection, render } from "astro:content";
+import PageLayout from "@src/layouts/PageLayout.astro";
 import MarkdownPostLayout from "../../layouts/MarkdownPostLayout.astro";
 
 // getStaticPaths generates multiple, prerendered page routes
@@ -20,6 +21,8 @@ const { playlist } = Astro.props;
 const { Content } = await render(playlist);
 ---
 
-<MarkdownPostLayout frontmatter={playlist.data}>
-  <Content />
-</MarkdownPostLayout>
+<PageLayout pageTitle={playlist.data.name}>
+  <MarkdownPostLayout frontmatter={playlist.data}>
+    <Content />
+  </MarkdownPostLayout>
+</PageLayout>

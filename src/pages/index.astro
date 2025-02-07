@@ -1,21 +1,30 @@
 ---
 import { getCollection } from "astro:content";
-import Layout from "../layouts/Layout.astro";
+import PageLayout from "@src/layouts/PageLayout.astro";
+import PlaylistCard from "@src/components/PlaylistCard.astro";
 
 const allPlaylists = await getCollection("periodicalPlaylists");
 ---
 
-<Layout>
-  <h1>Some awesome blog page</h1>
-
+<PageLayout pageTitle="Home Page">
   <!-- // COLLECTION STEP 3: Index collection entries -->
+  <ul>
+    {
+      allPlaylists.map((entry) => (
+        <PlaylistCard
+          url={`/playlists/${entry.data.lastUpdate}/`}
+          playlist={entry.data}
+        />
+      ))
+    }
+  </ul>
+</PageLayout>
 
-  {
-    allPlaylists.map((pl) => (
-      <>
-        <a href={`/playlists/${pl.data.lastUpdate}/`}>{pl.data.name}</a>
-        <br />
-      </>
-    ))
+<style>
+  ul {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
   }
-</Layout>
+</style>

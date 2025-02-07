@@ -1,0 +1,44 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  url: string;
+  playlist: CollectionEntry<"periodicalPlaylists">["data"];
+}
+
+const { url, playlist } = Astro.props;
+---
+
+<li class="card">
+  <a href={url}>
+    <img src={playlist.images[2].url} />
+    <span>{playlist.name}</span>
+  </a>
+</li>
+
+<style>
+  li {
+    list-style-type: none;
+    border: 1px solid;
+    border-color: black;
+    max-width: 500px;
+  }
+
+  html.dark li {
+    border-color: white;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+
+  html.dark a {
+    color: white;
+  }
+
+  span {
+    margin-inline-start: 1rem;
+  }
+</style>

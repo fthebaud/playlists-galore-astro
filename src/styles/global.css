@@ -1,0 +1,19 @@
+body {
+  padding: 1rem;
+  width: 940px;
+  max-width: 100%;
+  margin: auto;
+  background-color: white;
+  color: black;
+}
+
+html.dark body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+}
