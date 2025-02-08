@@ -1,5 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
 import TidalLogo from "@src/assets/Tidal.svg";
 import DeezerLogo from "@src/assets/Deezer.svg";
 import YoutubeMusicLogo from "@src/assets/YoutubeMusic.svg";
@@ -13,7 +14,13 @@ const { playlist } = Astro.props;
 ---
 
 <div class="container">
-  <img src={playlist.images[0].url} />
+  <Image
+    src={playlist.images[0].url}
+    width={640}
+    height={640}
+    alt="Playlist illustration made from a collage of the first four album covers"
+    loading="eager"
+  />
   <div class="info-container">
     <div class="text-container">
       <div>{playlist.name}</div>
@@ -30,6 +37,7 @@ const { playlist } = Astro.props;
         title="Tidal"
       >
         <TidalLogo />
+        <div>Tidal</div>
       </a>
       <a
         href={playlist.url.deezer}
@@ -38,6 +46,7 @@ const { playlist } = Astro.props;
         title="Deezer"
       >
         <DeezerLogo />
+        <div>Deezer</div>
       </a>
       <a
         href={playlist.url.youtube}
@@ -46,6 +55,7 @@ const { playlist } = Astro.props;
         title="Youtube Music"
       >
         <YoutubeMusicLogo />
+        <div>Youtube Music</div>
       </a>
       <a
         href={playlist.url.spotify}
@@ -54,6 +64,7 @@ const { playlist } = Astro.props;
         title="Spotify"
       >
         <SpotifyLogo />
+        <div>Spotify</div>
       </a>
     </div>
   </div>
@@ -69,6 +80,12 @@ const { playlist } = Astro.props;
   html.dark .container {
     border-color: white;
   }
+
+  /* img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+  } */
 
   .info-container {
     padding: 1rem;
@@ -89,5 +106,10 @@ const { playlist } = Astro.props;
 
   a {
     width: 80px;
+  }
+
+  a > div {
+    margin-top: 0.5rem;
+    text-align: center;
   }
 </style>

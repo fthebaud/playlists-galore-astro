@@ -1,22 +1,22 @@
-/* 1. Use a more-intuitive box-sizing model */
+/* Use a more-intuitive box-sizing model */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-/* 2. Remove default margin */
+/* Remove default margin */
 * {
   margin: 0;
 }
 body {
-  /* 3. Add accessible line-height */
+  /* Add accessible line-height */
   line-height: 1.5;
-  /* 4. Improve text rendering */
+  /* Improve text rendering */
   -webkit-font-smoothing: antialiased;
 }
 
-/* 5. Improve media defaults */
+/* Improve media defaults */
 img,
 picture,
 video,
@@ -24,6 +24,7 @@ canvas,
 svg {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 
 /* 6. Inherit fonts for form controls */
@@ -34,7 +35,7 @@ select {
   font: inherit;
 }
 
-/* 7. Avoid text overflows */
+/* Avoid text overflows */
 p,
 h1,
 h2,
@@ -45,7 +46,7 @@ h6 {
   overflow-wrap: break-word;
 }
 
-/* 8. Improve line wrapping */
+/* Improve line wrapping */
 p {
   text-wrap: pretty;
 }

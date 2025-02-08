@@ -10,10 +10,11 @@ const allPlaylists = await getCollection("playlists");
   <!-- // COLLECTION STEP 3: Index collection entries -->
   <ul>
     {
-      allPlaylists.map((entry) => (
+      allPlaylists.map((entry, index) => (
         <PlaylistLink
           url={`/playlists/${entry.data.lastUpdate}/`}
           playlist={entry.data}
+          aboveTheFold={index < 12}
         />
       ))
     }

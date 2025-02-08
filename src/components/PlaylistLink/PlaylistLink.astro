@@ -1,17 +1,26 @@
 ---
 import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
 
 interface Props {
   url: string;
   playlist: CollectionEntry<"playlists">["data"];
+  aboveTheFold: boolean;
 }
 
-const { url, playlist } = Astro.props;
+const { url, playlist, aboveTheFold: aboveTheFoald } = Astro.props;
 ---
 
 <li>
   <a href={url}>
-    <img src={playlist.images[2].url} />
+    <Image
+      src={playlist.images[2].url}
+      width={60}
+      height={60}
+      alt="Playlist illustration made from a collage of the first four album covers"
+      loading={aboveTheFoald ? "eager" : "lazy"}
+    />
+
     <div>
       <div>{playlist.name}</div>
       <div>{`Tracks: ${playlist.totalTracks}`}</div>
