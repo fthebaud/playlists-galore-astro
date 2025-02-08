@@ -3,16 +3,19 @@ import type { CollectionEntry } from "astro:content";
 
 interface Props {
   url: string;
-  playlist: CollectionEntry<"periodicalPlaylists">["data"];
+  playlist: CollectionEntry<"playlists">["data"];
 }
 
 const { url, playlist } = Astro.props;
 ---
 
-<li class="card">
+<li>
   <a href={url}>
     <img src={playlist.images[2].url} />
-    <span>{playlist.name}</span>
+    <div>
+      <div>{playlist.name}</div>
+      <div>{`Tracks: ${playlist.totalTracks}`}</div>
+    </div>
   </a>
 </li>
 
@@ -38,7 +41,7 @@ const { url, playlist } = Astro.props;
     color: white;
   }
 
-  span {
-    margin-inline-start: 1rem;
+  img {
+    margin-inline-end: 1rem;
   }
 </style>

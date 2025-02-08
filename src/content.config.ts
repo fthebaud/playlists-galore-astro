@@ -27,12 +27,12 @@ const playlistSchema = z.object({
   }),
 });
 
-const periodicalPlaylists = defineCollection({
+const playlists = defineCollection({
   // Where to get the blog posts
-  loader: file("./src/data/periodical-playlists.json"),
+  loader: file("./src/data/playlists.json"),
   // How to verify blog post format
   schema: playlistSchema,
 });
 
 // Export a single `collections` object to register your collection(s)
-export const collections = { periodicalPlaylists };
+export const collections = { playlists };

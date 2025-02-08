@@ -1,9 +1,9 @@
 ---
 import { getCollection } from "astro:content";
 import PageLayout from "@src/layouts/PageLayout.astro";
-import PlaylistCard from "@src/components/PlaylistCard.astro";
+import PlaylistLink from "@src/components/PlaylistLink/PlaylistLink.astro";
 
-const allPlaylists = await getCollection("periodicalPlaylists");
+const allPlaylists = await getCollection("playlists");
 ---
 
 <PageLayout pageTitle="Home Page">
@@ -11,7 +11,7 @@ const allPlaylists = await getCollection("periodicalPlaylists");
   <ul>
     {
       allPlaylists.map((entry) => (
-        <PlaylistCard
+        <PlaylistLink
           url={`/playlists/${entry.data.lastUpdate}/`}
           playlist={entry.data}
         />
