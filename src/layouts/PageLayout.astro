@@ -22,9 +22,23 @@ const { pageTitle } = Astro.props;
     <title>{pageTitle}</title>
   </head>
   <body>
-    <Header />
-    <main>
-      <slot />
-    </main>
+    <div class="page-container">
+      <Header />
+      <main>
+        <slot />
+      </main>
+    </div>
   </body>
 </html>
+
+<style>
+  .page-container {
+    width: 28rem; /* 448px */
+    max-width: 100%;
+    margin: auto;
+    padding: 0.375rem 0.75rem; /* 6px 12 px*/
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+</style>

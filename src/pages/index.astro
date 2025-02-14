@@ -14,7 +14,7 @@ const allPlaylists = await getCollection("playlists");
         <PlaylistLink
           url={`/playlists/${entry.data.lastUpdate}/`}
           playlist={entry.data}
-          aboveTheFold={index < 12}
+          aboveTheFold={index < 10}
         />
       ))
     }
