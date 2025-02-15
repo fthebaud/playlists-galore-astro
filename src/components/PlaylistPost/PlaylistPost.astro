@@ -5,6 +5,7 @@ import TidalLogo from "@src/assets/tidal-icon.svg";
 import DeezerLogo from "@src/assets/deezer-icon.svg";
 import YoutubeMusicLogo from "@src/assets/youtubeMusic-icon.svg";
 import SpotifyLogo from "@src/assets/spotify-icon.svg";
+import { printDetails } from "@src/utils";
 
 interface Props {
   playlist: CollectionEntry<"playlists">["data"];
@@ -12,12 +13,7 @@ interface Props {
 
 const { playlist } = Astro.props;
 
-const dateStr = playlist.lastUpdate.toString();
-const formattedDate = new Date(
-  parseInt(dateStr.substring(0, 4)), // Year
-  parseInt(dateStr.substring(4, 6)) - 1, // Month (0-based index)
-  parseInt(dateStr.substring(6, 8)), // Day
-).toLocaleDateString("fr-FR");
+const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
 ---
 
 <div class="container">
@@ -29,10 +25,10 @@ const formattedDate = new Date(
     alt="Playlist illustration made from a collage of the first four album covers"
     loading="eager"
   />
-  <div>
-    <div>{playlist.name}</div>
-    <div class="info-details">
-      {`${playlist.totalTracks} tracks, published: ${formattedDate}`}
+  <div class="infos">
+    <div class="title">{playlist.name}</div>
+    <div class="details">
+      {details}
     </div>
   </div>
 
@@ -71,11 +67,12 @@ const formattedDate = new Date(
     </a>
   </div>
 </div>
+
 <style>
   .container {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.5rem;
   }
 
   .image-cover {
@@ -83,15 +80,27 @@ const formattedDate = new Date(
     aspect-ratio: 1 / 1;
     border-radius: 12px;
     border: 1px solid;
-    border-color: black;
+    border-color:;
   }
 
   html.dark .image-cover {
-    border-color: white;
+    border-color: antiquewhite;
   }
 
-  .info-details {
-    font-size: 0.875rem;
+  .infos {
+    margin: auto;
+  }
+
+  .infos > * {
+    text-align: center;
+  }
+
+  .title {
+    font-size: 1.4rem;
+  }
+
+  .details {
+    font-size: 1rem;
     color: grey;
     font-style: italic;
   }

@@ -21,14 +21,22 @@ import RssIcon from "@src/assets/rss.svg";
 
 <style>
   .header {
+    position: sticky;
+    top: 0;
     display: flex;
     justify-content: space-between;
+    background-color: antiquewhite;
+    margin-top: 0.25rem;
+  }
+
+  html.dark .header {
+    background-color: #1a1a1a;
   }
 
   .header-title {
     text-decoration: none;
-    font-size: 1.8rem;
-    font-weight: 600;
+    font-size: 1.75rem;
+    font-weight: 500;
   }
 
   .header-actions {
@@ -42,9 +50,9 @@ import RssIcon from "@src/assets/rss.svg";
   }
 
   a {
-    color: black;
+    color: #1a1a1a;
   }
   html.dark a {
-    color: white;
+    color: antiquewhite;
   }
 </style>

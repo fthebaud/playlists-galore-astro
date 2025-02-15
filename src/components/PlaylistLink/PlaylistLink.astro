@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import { Image } from "astro:assets";
+import { printDetails } from "@src/utils";
 
 interface Props {
   url: string;
@@ -9,6 +10,8 @@ interface Props {
 }
 
 const { url, playlist, aboveTheFold: aboveTheFoald } = Astro.props;
+
+const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
 ---
 
 <li>
@@ -22,7 +25,7 @@ const { url, playlist, aboveTheFold: aboveTheFoald } = Astro.props;
     />
     <div>
       <div class="line-clamp">{playlist.name}</div>
-      <div class="tracks">{`${playlist.totalTracks} tracks`}</div>
+      <div class="tracks">{details}</div>
     </div>
   </a>
 </li>
@@ -35,18 +38,18 @@ const { url, playlist, aboveTheFold: aboveTheFoald } = Astro.props;
   }
 
   html.dark li {
-    border-color: white;
+    border-color: antiquewhite;
   }
 
   a {
     display: flex;
     align-items: center;
-    color: black;
+    color: #1a1a1a;
     text-decoration: none;
   }
 
   html.dark a {
-    color: white;
+    color: antiquewhite;
   }
 
   img {
