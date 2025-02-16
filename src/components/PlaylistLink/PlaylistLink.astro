@@ -34,22 +34,18 @@ const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
   li {
     list-style-type: none;
     max-width: 500px;
-    font-size: 1rem;
-  }
-
-  html.dark li {
-    border-color: antiquewhite;
+    font-size: 1.125rem;
   }
 
   a {
     display: flex;
     align-items: center;
-    color: #1a1a1a;
+    color: var(--dark);
     text-decoration: none;
   }
 
   html.dark a {
-    color: antiquewhite;
+    color: var(--light);
   }
 
   img {
@@ -58,9 +54,13 @@ const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
   }
 
   .tracks {
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-style: italic;
     font-weight: 200;
-    color: grey;
+    color: var(--dark-grey);
+  }
+
+  html.dark .tracks {
+    color: var(--light-grey);
   }
 </style>

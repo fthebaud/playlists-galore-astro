@@ -25,18 +25,18 @@ import RssIcon from "@src/assets/rss.svg";
     top: 0;
     display: flex;
     justify-content: space-between;
-    background-color: antiquewhite;
+    background-color: var(--light);
     padding: 0.5rem 0;
   }
 
   html.dark .header {
-    background-color: #1a1a1a;
+    background-color: var(--dark);
   }
 
   .header-title {
     text-decoration: none;
-    font-size: 1.75rem;
-    font-weight: 500;
+    font-size: 2rem;
+    font-weight: 600;
   }
 
   .header-actions {
@@ -50,9 +50,9 @@ import RssIcon from "@src/assets/rss.svg";
   }
 
   a {
-    color: #1a1a1a;
+    color: var(--dark);
   }
   html.dark a {
-    color: antiquewhite;
+    color: var(--light);
   }
 </style>

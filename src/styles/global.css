@@ -1,11 +1,8 @@
-body {
-  background-color: antiquewhite;
-  color: #1a1a1a;
-}
-
-html.dark body {
-  background-color: #1a1a1a;
-  color: antiquewhite;
+html {
+  --light: antiquewhite;
+  --dark: #1a1a1a;
+  --dark-grey: #6b6b6b;
+  --light-grey: #828282;
 }
 
 .line-clamp-2 {

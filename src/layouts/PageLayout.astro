@@ -32,6 +32,16 @@ const { pageTitle } = Astro.props;
 </html>
 
 <style>
+  body {
+    background-color: var(--light);
+    color: var(--dark);
+  }
+
+  html.dark body {
+    background-color: var(--dark);
+    color: var(--light);
+  }
+
   .page-container {
     width: 28rem; /* 448px */
     max-width: 100%;
