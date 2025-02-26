@@ -1,5 +1,36 @@
 [
   {
+    "name": "February 2025 - Perfect From Now On",
+    "lastUpdate": 20250226,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e020035a4af962494315b2b4624ab67616d00001e02351803c56558c8921f73cfd1ab67616d00001e026ce54b6c1bb83d7b281b344eab67616d00001e0281d9941b8ab94b515f23939b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e020035a4af962494315b2b4624ab67616d00001e02351803c56558c8921f73cfd1ab67616d00001e026ce54b6c1bb83d7b281b344eab67616d00001e0281d9941b8ab94b515f23939b",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e020035a4af962494315b2b4624ab67616d00001e02351803c56558c8921f73cfd1ab67616d00001e026ce54b6c1bb83d7b281b344eab67616d00001e0281d9941b8ab94b515f23939b",
+        "width": 60
+      }
+    ],
+    "category": "monthly",
+    "tags": [],
+    "totalTracks": 17,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/6NthARHTpxYFwcBINSKvAl",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSL2DNbWwxpt5JsUsrDH33ug",
+      "deezer": "https://dzr.page.link/9S1bYAgc1EMizpUa9",
+      "tidal": "https://tidal.com/browse/playlist/d0257d4f-d01c-47e6-9234-1d697bb5c30c"
+    },
+    "id": "145bc4c1-f0c5-4584-9055-173f01e1f068"
+  },
+  {
     "name": "December 2024 - Everything's Burning Down",
     "lastUpdate": 20241213,
     "images": [
