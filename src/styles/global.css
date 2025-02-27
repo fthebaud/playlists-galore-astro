@@ -1,8 +1,25 @@
-html {
-  --light: antiquewhite;
-  --dark: #1a1a1a;
-  --dark-grey: #6b6b6b;
-  --light-grey: #828282;
+@property --light {
+  syntax: "<color>";
+  initial-value: white;
+  inherits: true;
+}
+
+@property --dark {
+  syntax: "<color>";
+  initial-value: hsl(210deg, 38%, 15%);
+  inherits: true;
+}
+
+@property --dark-grey {
+  syntax: "<color>";
+  initial-value: #6b6b6b;
+  inherits: true;
+}
+
+@property --light-grey {
+  syntax: "<color>";
+  initial-value: #939393;
+  inherits: true;
 }
 
 .line-clamp-2 {
