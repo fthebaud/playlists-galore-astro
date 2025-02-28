@@ -11,7 +11,7 @@ export async function getStaticPaths() {
   const playlists = await getCollection("playlists");
   // Return list of routes
   return playlists.map((playlist) => ({
-    params: { slug: playlist.data.lastUpdate }, // Specify the route
+    params: { slug: playlist.data.pubDate }, // Specify the route
     props: { playlist: playlist.data }, // Optional prop to be passed to each page template
   }));
 }

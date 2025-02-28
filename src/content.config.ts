@@ -6,7 +6,6 @@ import { z, defineCollection } from "astro:content";
  */
 
 const playlistSchema = z.object({
-  category: z.string(),
   id: z.string(),
   images: z.array(
     z.object({
@@ -15,7 +14,7 @@ const playlistSchema = z.object({
       url: z.string(),
     }),
   ),
-  lastUpdate: z.number(),
+  pubDate: z.number(),
   name: z.string(),
   tags: z.array(z.string()),
   totalTracks: z.number(),

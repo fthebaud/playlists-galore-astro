@@ -13,7 +13,7 @@ interface Props {
 
 const { playlist } = Astro.props;
 
-const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
+const details = printDetails(playlist.totalTracks, playlist.pubDate);
 ---
 
 <div class="container">

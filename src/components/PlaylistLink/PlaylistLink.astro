@@ -11,7 +11,7 @@ interface Props {
 
 const { url, playlist, aboveTheFold: aboveTheFoald } = Astro.props;
 
-const details = printDetails(playlist.totalTracks, playlist.lastUpdate);
+const details = printDetails(playlist.totalTracks, playlist.pubDate);
 ---
 
 <li>

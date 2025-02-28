@@ -1,7 +1,7 @@
 [
   {
     "name": "February 2025 - Perfect From Now On",
-    "lastUpdate": 20250226,
+    "pubDate": 20250226,
     "images": [
       {
         "height": 640,
@@ -19,8 +19,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6NthARHTpxYFwcBINSKvAl",
@@ -32,7 +31,7 @@
   },
   {
     "name": "December 2024 - Everything's Burning Down",
-    "lastUpdate": 20241213,
+    "pubDate": 20241213,
     "images": [
       {
         "height": 640,
@@ -50,8 +49,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0p30IPPaPMgJ2BwBU5yfaI",
@@ -63,7 +61,7 @@
   },
   {
     "name": "November 2024 - Didn't It Rain",
-    "lastUpdate": 20241108,
+    "pubDate": 20241108,
     "images": [
       {
         "height": 640,
@@ -81,8 +79,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3A33d17JMY2ShqnXwiOIST",
@@ -94,7 +91,7 @@
   },
   {
     "name": "October 2024 - Fog Lights",
-    "lastUpdate": 20241026,
+    "pubDate": 20241026,
     "images": [
       {
         "height": 640,
@@ -112,8 +109,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 25,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2e5TQKSRR3g5XChTtWJGvZ",
@@ -125,7 +121,7 @@
   },
   {
     "name": "September 2024 - Just A Minute Too Late",
-    "lastUpdate": 20240902,
+    "pubDate": 20240902,
     "images": [
       {
         "height": 640,
@@ -143,8 +139,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/20a9hnhhPVDGHAd5Rviepe",
@@ -156,7 +151,7 @@
   },
   {
     "name": "July 2024 - When Night Will Bloom",
-    "lastUpdate": 20240730,
+    "pubDate": 20240730,
     "images": [
       {
         "height": 640,
@@ -174,8 +169,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 21,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3d2AsI6KDNRu5plXPBBTmN",
@@ -187,7 +181,7 @@
   },
   {
     "name": "June 2024 - Looking For A Feeling",
-    "lastUpdate": 20240621,
+    "pubDate": 20240621,
     "images": [
       {
         "height": 640,
@@ -205,8 +199,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/74keWCN7dUO7Cb142vaAw3",
@@ -218,7 +211,7 @@
   },
   {
     "name": "May 2024 - That seems like a lot of garlic",
-    "lastUpdate": 20240516,
+    "pubDate": 20240516,
     "images": [
       {
         "height": 640,
@@ -236,8 +229,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 27,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1uDhN3M6WfSr0uZFv6ZCRu",
@@ -249,7 +241,7 @@
   },
   {
     "name": "January 2024 - Curieux face à face",
-    "lastUpdate": 20240111,
+    "pubDate": 20240111,
     "images": [
       {
         "height": 640,
@@ -267,8 +259,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 21,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6ut0eTgrQJsfm89fEQJxoJ",
@@ -280,7 +271,7 @@
   },
   {
     "name": "December 2023 -  Working On A Way To Remember",
-    "lastUpdate": 20231207,
+    "pubDate": 20231207,
     "images": [
       {
         "height": 640,
@@ -298,8 +289,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 22,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6GB8NOr7z9jVnfq5jHoro3",
@@ -311,7 +301,7 @@
   },
   {
     "name": "November 2023 - Trapped In The Skies",
-    "lastUpdate": 20231126,
+    "pubDate": 20231126,
     "images": [
       {
         "height": 640,
@@ -329,8 +319,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6CYSchFMO1LdOqZPCvDPVI",
@@ -342,7 +331,7 @@
   },
   {
     "name": "October 2023 - In Strange Ideas",
-    "lastUpdate": 20231008,
+    "pubDate": 20231008,
     "images": [
       {
         "height": 640,
@@ -360,8 +349,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 22,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1VD0ntkElnYIWA5o4N3knT",
@@ -373,7 +361,7 @@
   },
   {
     "name": "August 2023 - On the waves of time",
-    "lastUpdate": 20230827,
+    "pubDate": 20230827,
     "images": [
       {
         "height": 640,
@@ -391,8 +379,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 22,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5mIO2kjLnXOXAOW4PSYupF",
@@ -404,7 +391,7 @@
   },
   {
     "name": "June 2023 - In Wildfires",
-    "lastUpdate": 20230616,
+    "pubDate": 20230616,
     "images": [
       {
         "height": 640,
@@ -422,8 +409,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1wxOK9Mwg99Maqd7sfsg5y",
@@ -435,7 +421,7 @@
   },
   {
     "name": "March 2023 - Nights that won't happen",
-    "lastUpdate": 20230331,
+    "pubDate": 20230331,
     "images": [
       {
         "height": 640,
@@ -453,8 +439,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3XSNX7nqIHgXZSQVavWQ6O",
@@ -466,7 +451,7 @@
   },
   {
     "name": "January 2023 - And here is the horizon",
-    "lastUpdate": 20230113,
+    "pubDate": 20230113,
     "images": [
       {
         "height": 640,
@@ -484,8 +469,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4mKUF4xYkNCezwCN8YYciN",
@@ -497,7 +481,7 @@
   },
   {
     "name": "December 2022 - Avec Les Nuages",
-    "lastUpdate": 20221226,
+    "pubDate": 20221226,
     "images": [
       {
         "height": 640,
@@ -515,8 +499,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6kUOqn07ILJrsqcL0tfBL5",
@@ -528,7 +511,7 @@
   },
   {
     "name": "November 2022 - On A Friday Night",
-    "lastUpdate": 20221101,
+    "pubDate": 20221101,
     "images": [
       {
         "height": 640,
@@ -546,8 +529,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 22,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7pAgvesl0fjO0Vp7LooVrG",
@@ -559,7 +541,7 @@
   },
   {
     "name": "October 2022 - Just Trying To Mend Your Heart",
-    "lastUpdate": 20221001,
+    "pubDate": 20221001,
     "images": [
       {
         "height": 640,
@@ -577,8 +559,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 21,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1lgJpty9DXSfXZ7lMNCLEe",
@@ -590,7 +571,7 @@
   },
   {
     "name": "August 2022 - Un Sol D'Automne",
-    "lastUpdate": 20220801,
+    "pubDate": 20220801,
     "images": [
       {
         "height": 640,
@@ -608,8 +589,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3yCAgHtliXaZI21lCIwnAU?si=c110be18bb264a7b",
@@ -621,7 +601,7 @@
   },
   {
     "name": "June 2022 - Alléluia, be bop a lula",
-    "lastUpdate": 20220601,
+    "pubDate": 20220601,
     "images": [
       {
         "height": 640,
@@ -639,8 +619,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6NQ75r7hStJNCTRXlRdf1M?si=eac7a12bb12d4541",
@@ -652,7 +631,7 @@
   },
   {
     "name": "May 2022 - In colors",
-    "lastUpdate": 20220501,
+    "pubDate": 20220501,
     "images": [
       {
         "height": 640,
@@ -670,8 +649,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 21,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1GpFJV1T6DPKvhadMioJ3U?si=4JRNUfDysJqQaMse9ksfzI",
@@ -683,7 +661,7 @@
   },
   {
     "name": "February 2022 - I wish I had a river",
-    "lastUpdate": 20220201,
+    "pubDate": 20220201,
     "images": [
       {
         "height": 640,
@@ -701,8 +679,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3G9bNpIoriG5MMDBMr1yNc?si=4JRNUfDysJqQaMse9ksfzI",
@@ -714,7 +691,7 @@
   },
   {
     "name": "January 2022 - I Wonder Why We Came",
-    "lastUpdate": 20220101,
+    "pubDate": 20220101,
     "images": [
       {
         "height": 640,
@@ -732,8 +709,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4ATdVBO939rcSLaP5oQWBG",
@@ -745,7 +721,7 @@
   },
   {
     "name": "December 2021 - Well Well Well",
-    "lastUpdate": 20211201,
+    "pubDate": 20211201,
     "images": [
       {
         "height": 640,
@@ -763,8 +739,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5Q6mkKaiiVKNzC1FsaW2wQ",
@@ -776,7 +751,7 @@
   },
   {
     "name": "November 2021 - Honey it wasn't yet the spring",
-    "lastUpdate": 20211101,
+    "pubDate": 20211101,
     "images": [
       {
         "height": 640,
@@ -794,8 +769,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1rAz4I6tkZCvotF6eio0ah",
@@ -807,7 +781,7 @@
   },
   {
     "name": "October 2021 - And then, the funniest thing happened",
-    "lastUpdate": 20211001,
+    "pubDate": 20211001,
     "images": [
       {
         "height": 640,
@@ -825,8 +799,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/33YO3ZZ14khGrXCKKIWayR",
@@ -838,7 +811,7 @@
   },
   {
     "name": "September 2021 - Time Waits For No One",
-    "lastUpdate": 20210901,
+    "pubDate": 20210901,
     "images": [
       {
         "height": 640,
@@ -856,8 +829,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 18,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5BnNoN0fKS9SDY53g8V7Tx",
@@ -869,7 +841,7 @@
   },
   {
     "name": "August 2021 - I Was Far Away",
-    "lastUpdate": 20210801,
+    "pubDate": 20210801,
     "images": [
       {
         "height": 640,
@@ -887,8 +859,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2XNrXI5g1eXOK0cCUhFS05",
@@ -900,7 +871,7 @@
   },
   {
     "name": "July 2021 - Hurricane Laughter",
-    "lastUpdate": 20210701,
+    "pubDate": 20210701,
     "images": [
       {
         "height": 640,
@@ -918,8 +889,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0R5j3KnpgpBoAS8pSWGiuI",
@@ -931,7 +901,7 @@
   },
   {
     "name": "May 2021 - Good For You",
-    "lastUpdate": 20210501,
+    "pubDate": 20210501,
     "images": [
       {
         "height": 640,
@@ -949,8 +919,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5SRLZsrCHL1x2wDh4d6o",
@@ -962,7 +931,7 @@
   },
   {
     "name": "April 2021 - That's Life",
-    "lastUpdate": 20210401,
+    "pubDate": 20210401,
     "images": [
       {
         "height": 640,
@@ -980,8 +949,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 18,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2VQK4nzLg4deU6f4tNPEbf",
@@ -993,7 +961,7 @@
   },
   {
     "name": "December 2020 - Deadly Delicate",
-    "lastUpdate": 20201201,
+    "pubDate": 20201201,
     "images": [
       {
         "height": 640,
@@ -1011,8 +979,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5Kec7TeAs0gpl9yhrD2vQu",
@@ -1024,7 +991,7 @@
   },
   {
     "name": "October 2020 - Strange Weather",
-    "lastUpdate": 20201001,
+    "pubDate": 20201001,
     "images": [
       {
         "height": 640,
@@ -1042,8 +1009,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5njlFJXRmtQ1rtE8oK78ZB",
@@ -1055,7 +1021,7 @@
   },
   {
     "name": "September 2020 - Play me a song, Mr. Wolfman Jack",
-    "lastUpdate": 20200901,
+    "pubDate": 20200901,
     "images": [
       {
         "height": 640,
@@ -1073,8 +1039,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4uI4jzMF89AH7Pqb0huCsA",
@@ -1086,7 +1051,7 @@
   },
   {
     "name": "May 2020 - No Rooftop On My Joy",
-    "lastUpdate": 20200501,
+    "pubDate": 20200501,
     "images": [
       {
         "height": 640,
@@ -1104,8 +1069,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 25,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4ctO3LIRoMhygySIWiVB6p",
@@ -1117,7 +1081,7 @@
   },
   {
     "name": "April 2020 - The Smallest Church In Saint-Saëns",
-    "lastUpdate": 20200401,
+    "pubDate": 20200401,
     "images": [
       {
         "height": 640,
@@ -1135,8 +1099,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 18,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7turKgg7mjU4mijUIQMFTL",
@@ -1148,7 +1111,7 @@
   },
   {
     "name": "December 2019 - Le temps arrange ces choses là",
-    "lastUpdate": 20191201,
+    "pubDate": 20191201,
     "images": [
       {
         "height": 640,
@@ -1166,8 +1129,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6VpPQuMRqBhIcyXm4QHRhx",
@@ -1179,7 +1141,7 @@
   },
   {
     "name": "October 2019 - Take me home",
-    "lastUpdate": 20191001,
+    "pubDate": 20191001,
     "images": [
       {
         "height": 640,
@@ -1197,8 +1159,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5CTJPYpWUHCksdZWTzUpM2",
@@ -1210,7 +1171,7 @@
   },
   {
     "name": "September 2019 - Collapsing memory",
-    "lastUpdate": 20190901,
+    "pubDate": 20190901,
     "images": [
       {
         "height": 640,
@@ -1228,8 +1189,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 18,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4xhKQG5hFqvu12pib6Ypaa",
@@ -1241,7 +1201,7 @@
   },
   {
     "name": "July 2019 - Storm coming",
-    "lastUpdate": 20190701,
+    "pubDate": 20190701,
     "images": [
       {
         "height": 640,
@@ -1259,8 +1219,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6xhKve3IuvcRS1vQSaMlip",
@@ -1272,7 +1231,7 @@
   },
   {
     "name": "May 2019 - Something to make us all happy",
-    "lastUpdate": 20190501,
+    "pubDate": 20190501,
     "images": [
       {
         "height": 640,
@@ -1290,8 +1249,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 22,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0JMhZ6vPXlivzvaQGHqSVj",
@@ -1303,7 +1261,7 @@
   },
   {
     "name": "March 2019 - Pour un chien qui n'en démord pas",
-    "lastUpdate": 20190301,
+    "pubDate": 20190301,
     "images": [
       {
         "height": 640,
@@ -1321,8 +1279,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7ul3Z6OxeCsDeD9jbZatO1",
@@ -1334,7 +1291,7 @@
   },
   {
     "name": "February 2019 - The shape of trance to come",
-    "lastUpdate": 20190201,
+    "pubDate": 20190201,
     "images": [
       {
         "height": 640,
@@ -1352,8 +1309,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1FeiXXNhX0g1LQYOG9QnC3",
@@ -1365,7 +1321,7 @@
   },
   {
     "name": "November 2018 - Impossible, you say?",
-    "lastUpdate": 20181101,
+    "pubDate": 20181101,
     "images": [
       {
         "height": 640,
@@ -1383,8 +1339,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6rwttE3E6HdSsieZBPWUQ0",
@@ -1396,7 +1351,7 @@
   },
   {
     "name": "October 2018 - Good night, day",
-    "lastUpdate": 20181001,
+    "pubDate": 20181001,
     "images": [
       {
         "height": 640,
@@ -1414,8 +1369,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5TNhRFj5KfrN6BYF7VxlGN",
@@ -1427,7 +1381,7 @@
   },
   {
     "name": "September 2018 - Les garçons imprudents",
-    "lastUpdate": 20180901,
+    "pubDate": 20180901,
     "images": [
       {
         "height": 640,
@@ -1445,8 +1399,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6xzPTkbfpn8aVXyXXvJOzO",
@@ -1458,7 +1411,7 @@
   },
   {
     "name": "August 2018 - Hey Moon",
-    "lastUpdate": 20180801,
+    "pubDate": 20180801,
     "images": [
       {
         "height": 640,
@@ -1476,8 +1429,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2ZHZB4ZIxwafjzL0xvmc5A",
@@ -1489,7 +1441,7 @@
   },
   {
     "name": "July 2018 - You're so baby",
-    "lastUpdate": 20180701,
+    "pubDate": 20180701,
     "images": [
       {
         "height": 640,
@@ -1507,8 +1459,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6jPrh5NhbB6LSq17mJGPdJ",
@@ -1520,7 +1471,7 @@
   },
   {
     "name": "June 2018 - Goodbye to beauty",
-    "lastUpdate": 20180601,
+    "pubDate": 20180601,
     "images": [
       {
         "height": 640,
@@ -1538,8 +1489,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1kR48N3QcOgnzDS442weGg",
@@ -1551,7 +1501,7 @@
   },
   {
     "name": "April 2018 - The sunlight on your face",
-    "lastUpdate": 20180401,
+    "pubDate": 20180401,
     "images": [
       {
         "height": 640,
@@ -1569,8 +1519,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5qprgO9ZZqRjg4MXj6nkw4",
@@ -1582,7 +1531,7 @@
   },
   {
     "name": "March 2018 - Singing these lonely lullabies to you",
-    "lastUpdate": 20180301,
+    "pubDate": 20180301,
     "images": [
       {
         "height": 640,
@@ -1600,8 +1549,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2efjMsBvfwahlJalyZLD0Y",
@@ -1613,7 +1561,7 @@
   },
   {
     "name": "February 2018 - Innocence lost",
-    "lastUpdate": 20180201,
+    "pubDate": 20180201,
     "images": [
       {
         "height": 640,
@@ -1631,8 +1579,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 21,
     "url": {
       "spotify": "https://open.spotify.com/playlist/48pXnTsKn1LAxxDgPAPO9I",
@@ -1644,7 +1591,7 @@
   },
   {
     "name": "December 2017 - Pretty rough hours",
-    "lastUpdate": 20171201,
+    "pubDate": 20171201,
     "images": [
       {
         "height": 640,
@@ -1662,8 +1609,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6znXbtiST4sb4dnAjrQE2W",
@@ -1675,7 +1621,7 @@
   },
   {
     "name": "November 2017 - Random words",
-    "lastUpdate": 20171101,
+    "pubDate": 20171101,
     "images": [
       {
         "height": 640,
@@ -1693,8 +1639,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7jmghYULFBX2EL8uu4avON",
@@ -1706,7 +1651,7 @@
   },
   {
     "name": "October 2017 - Shadows still with us",
-    "lastUpdate": 20171001,
+    "pubDate": 20171001,
     "images": [
       {
         "height": 640,
@@ -1724,8 +1669,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 19,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6sD2vuZAzn9WDXBMmJeLmL",
@@ -1737,7 +1681,7 @@
   },
   {
     "name": "September 2017 - New York isn't New York Without you, love",
-    "lastUpdate": 20170901,
+    "pubDate": 20170901,
     "images": [
       {
         "height": 640,
@@ -1755,8 +1699,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2c6pllg92qQY1OXX3EwyOO",
@@ -1768,7 +1711,7 @@
   },
   {
     "name": "August 2017 - What's a song without you?",
-    "lastUpdate": 20170801,
+    "pubDate": 20170801,
     "images": [
       {
         "height": 640,
@@ -1786,8 +1729,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6n8yJfG7Gu6mLFtfIiVh9r",
@@ -1799,7 +1741,7 @@
   },
   {
     "name": "December 2016 - For the damaged coda",
-    "lastUpdate": 20161201,
+    "pubDate": 20161201,
     "images": [
       {
         "height": 640,
@@ -1817,8 +1759,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 52,
     "url": {
       "spotify": "https://open.spotify.com/playlist/57F1kkKAs3FtNNf85RnK4R",
@@ -1830,7 +1771,7 @@
   },
   {
     "name": "November 2016 - Hypernuit",
-    "lastUpdate": 20161101,
+    "pubDate": 20161101,
     "images": [
       {
         "height": 640,
@@ -1848,8 +1789,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 40,
     "url": {
       "spotify": "https://open.spotify.com/playlist/39dh64m6xiohAibMC366wm",
@@ -1861,7 +1801,7 @@
   },
   {
     "name": "October 2016 - The last night of all nights",
-    "lastUpdate": 20161001,
+    "pubDate": 20161001,
     "images": [
       {
         "height": 640,
@@ -1879,8 +1819,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 31,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2CGW8HZ9fDC50ue0zpWvx5",
@@ -1892,7 +1831,7 @@
   },
   {
     "name": "September 2016 - I backed my car into a cop car the other day",
-    "lastUpdate": 20160901,
+    "pubDate": 20160901,
     "images": [
       {
         "height": 640,
@@ -1910,8 +1849,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 35,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7Ku86kcQjDxlumeQkZXylS",
@@ -1923,7 +1861,7 @@
   },
   {
     "name": "August 2016 - Space to Bakersfield",
-    "lastUpdate": 20160801,
+    "pubDate": 20160801,
     "images": [
       {
         "height": 640,
@@ -1941,8 +1879,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 35,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5442As37icWswv3Uxf9KGD",
@@ -1954,7 +1891,7 @@
   },
   {
     "name": "July 2016 - Have yourself a good time",
-    "lastUpdate": 20160701,
+    "pubDate": 20160701,
     "images": [
       {
         "height": 640,
@@ -1972,8 +1909,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 36,
     "url": {
       "spotify": "https://open.spotify.com/playlist/60YSJJQGdUEHN3MSgYfVoz",
@@ -1985,7 +1921,7 @@
   },
   {
     "name": "June 2016 - How the hell was I suppose to know how to steer the ship?",
-    "lastUpdate": 20160601,
+    "pubDate": 20160601,
     "images": [
       {
         "height": 640,
@@ -2003,8 +1939,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 35,
     "url": {
       "spotify": "https://open.spotify.com/playlist/69gnFogaWBbU6YcUJh4dsw",
@@ -2016,7 +1951,7 @@
   },
   {
     "name": "May 2016 -  So whether music or madness",
-    "lastUpdate": 20160501,
+    "pubDate": 20160501,
     "images": [
       {
         "height": 640,
@@ -2034,8 +1969,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 45,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6FbA4X6PcV0SqmR0Yh5IJe",
@@ -2047,7 +1981,7 @@
   },
   {
     "name": "April 2016 - Swimming in Seattle",
-    "lastUpdate": 20160401,
+    "pubDate": 20160401,
     "images": [
       {
         "height": 640,
@@ -2065,8 +1999,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 50,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4pTj80mywSgFXgS3XNj7om",
@@ -2078,7 +2011,7 @@
   },
   {
     "name": "March 2016 - From my window to yours",
-    "lastUpdate": 20160301,
+    "pubDate": 20160301,
     "images": [
       {
         "height": 640,
@@ -2096,8 +2029,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 50,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1fRgnICgv2xxUOShZK1zOq",
@@ -2109,7 +2041,7 @@
   },
   {
     "name": "February 2016 - Just another story",
-    "lastUpdate": 20160201,
+    "pubDate": 20160201,
     "images": [
       {
         "height": 640,
@@ -2127,8 +2059,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 50,
     "url": {
       "spotify": "https://open.spotify.com/playlist/72zepBGo3pqJ9xAufAl9e2",
@@ -2140,7 +2071,7 @@
   },
   {
     "name": "January 2016 - In the shadow of Mount Rainier",
-    "lastUpdate": 20160101,
+    "pubDate": 20160101,
     "images": [
       {
         "height": 640,
@@ -2158,8 +2089,7 @@
         "width": 60
       }
     ],
-    "category": "monthly",
-    "tags": [],
+    "tags": ["monthly"],
     "totalTracks": 50,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0pdPSOHXNLPlSbcVpcyX5q",
@@ -2171,7 +2101,7 @@
   },
   {
     "name": "Weekend playlist [04-12-2015]",
-    "lastUpdate": 20151204,
+    "pubDate": 20151204,
     "images": [
       {
         "height": 640,
@@ -2189,8 +2119,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0c7DAwo8hQTACUZgHkvlL3",
@@ -2202,7 +2131,7 @@
   },
   {
     "name": "Weekend playlist [20-11-2015]",
-    "lastUpdate": 20151120,
+    "pubDate": 20151120,
     "images": [
       {
         "height": 640,
@@ -2220,8 +2149,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7HTQf2AuM1YQi6TyQ91Wa3",
@@ -2233,7 +2161,7 @@
   },
   {
     "name": "Weekend playlist [06-11-2015]",
-    "lastUpdate": 20151106,
+    "pubDate": 20151106,
     "images": [
       {
         "height": 640,
@@ -2251,8 +2179,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5M8yWjptNUzisnwZATeYKG",
@@ -2264,7 +2191,7 @@
   },
   {
     "name": "Playlist Jazz #1 [30-10-2015]",
-    "lastUpdate": 20151030,
+    "pubDate": 20151030,
     "images": [
       {
         "height": 640,
@@ -2282,8 +2209,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["jazz"],
+    "tags": ["weekly", "jazz"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2t4fPapzbiGB90GQm4idQj",
@@ -2295,7 +2221,7 @@
   },
   {
     "name": "Weekend playlist [16-10-2015]",
-    "lastUpdate": 20151016,
+    "pubDate": 20151016,
     "images": [
       {
         "height": 640,
@@ -2313,8 +2239,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2oJLX4C2wxzoYmSLurlMfX",
@@ -2326,7 +2251,7 @@
   },
   {
     "name": "Weekend playlist [18-09-2015]",
-    "lastUpdate": 20150918,
+    "pubDate": 20150918,
     "images": [
       {
         "height": 640,
@@ -2344,8 +2269,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 20,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0AuyyByYtwRH7z9iAKQRVe",
@@ -2357,7 +2281,7 @@
   },
   {
     "name": "Weekend playlist [04-09-2015]",
-    "lastUpdate": 20150904,
+    "pubDate": 20150904,
     "images": [
       {
         "height": 640,
@@ -2375,8 +2299,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/20gLoP7a0tExspBnLIrWta",
@@ -2388,7 +2311,7 @@
   },
   {
     "name": "Weekend playlist [21-08-2015]",
-    "lastUpdate": 20150821,
+    "pubDate": 20150821,
     "images": [
       {
         "height": 640,
@@ -2406,8 +2329,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0ETldkVax0q9z6BiU5MMAU",
@@ -2419,7 +2341,7 @@
   },
   {
     "name": "Weekend playlist [31-07-2015]",
-    "lastUpdate": 20150731,
+    "pubDate": 20150731,
     "images": [
       {
         "height": 640,
@@ -2437,8 +2359,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/67hXJ2KZ8aAT0MRL4RTXoX",
@@ -2450,7 +2371,7 @@
   },
   {
     "name": "Weekend playlist [17-07-2015]",
-    "lastUpdate": 20150717,
+    "pubDate": 20150717,
     "images": [
       {
         "height": 640,
@@ -2468,8 +2389,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2FtkHenRmht2VK82umAyow",
@@ -2481,7 +2401,7 @@
   },
   {
     "name": "Weekend playlist [26-06-2015]",
-    "lastUpdate": 20150626,
+    "pubDate": 20150626,
     "images": [
       {
         "height": 640,
@@ -2499,8 +2419,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6KbBU7psKL7Yo0OcbpP7aG",
@@ -2512,7 +2431,7 @@
   },
   {
     "name": "Weekend playlist [14-05-2015]",
-    "lastUpdate": 20150514,
+    "pubDate": 20150514,
     "images": [
       {
         "height": 640,
@@ -2530,8 +2449,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4NREhpl3XikutYpnrc6v1s",
@@ -2543,7 +2461,7 @@
   },
   {
     "name": "Rock etc. [01-05-2015]",
-    "lastUpdate": 20150501,
+    "pubDate": 20150501,
     "images": [
       {
         "height": 640,
@@ -2561,8 +2479,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["rock"],
+    "tags": ["weekly", "rock"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0u2kvluf1flr9fOuDaDxD1",
@@ -2574,7 +2491,7 @@
   },
   {
     "name": "Weekend playlist [04-04-2015]",
-    "lastUpdate": 20150404,
+    "pubDate": 20150404,
     "images": [
       {
         "height": 640,
@@ -2592,8 +2509,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0Ks5DVbAiNS9qVKXdk1rv8",
@@ -2605,7 +2521,7 @@
   },
   {
     "name": "Weekend playlist [21-03-2015]",
-    "lastUpdate": 20150321,
+    "pubDate": 20150321,
     "images": [
       {
         "height": 640,
@@ -2623,8 +2539,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/082n0P5MBCmLKWAKFF4860",
@@ -2636,7 +2551,7 @@
   },
   {
     "name": "Weekend playlist [28-02-2015]",
-    "lastUpdate": 20150228,
+    "pubDate": 20150228,
     "images": [
       {
         "height": 640,
@@ -2654,8 +2569,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5RNEtdHUgspylxOfRLfhqn",
@@ -2667,7 +2581,7 @@
   },
   {
     "name": "Weekend playlist [09-02-2015]",
-    "lastUpdate": 20150209,
+    "pubDate": 20150209,
     "images": [
       {
         "height": 640,
@@ -2685,8 +2599,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2iDArZeSiE6wXFQTLvqIjT",
@@ -2698,7 +2611,7 @@
   },
   {
     "name": "Weekend playlist [19-12-2014]",
-    "lastUpdate": 20141219,
+    "pubDate": 20141219,
     "images": [
       {
         "height": 640,
@@ -2716,8 +2629,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/73J2YyLIqbOypdofiaDB5q",
@@ -2729,7 +2641,7 @@
   },
   {
     "name": "Weekend playlist [06-12-2014]",
-    "lastUpdate": 20141206,
+    "pubDate": 20141206,
     "images": [
       {
         "height": 640,
@@ -2747,8 +2659,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/64BAFHI3nKatT2t0C1V53D",
@@ -2760,7 +2671,7 @@
   },
   {
     "name": "Weekend playlist [15-11-2014]",
-    "lastUpdate": 20141115,
+    "pubDate": 20141115,
     "images": [
       {
         "height": 640,
@@ -2778,20 +2689,19 @@
         "width": 60
       }
     ],
-    "category": "weekly",
     "url": {
       "spotify": "https://open.spotify.com/playlist/2BRDSNthVhJEZosnbtgzWW",
       "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIcmAFSVol5o5TWNjqTGt9T",
       "deezer": "https://dzr.page.link/an5Vt4TtEocWA22e7",
       "tidal": "https://tidal.com/browse/playlist/87852bbd-b35c-4ce6-814c-aa55d6c83774"
     },
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "id": "d326d6b5-596c-4219-afe0-4ab7f8a4bcae"
   },
   {
     "name": "Weekend playlist [31-10-2014]",
-    "lastUpdate": 20141031,
+    "pubDate": 20141031,
     "images": [
       {
         "height": 640,
@@ -2809,8 +2719,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3tosfPSB4sFSlvl6g6lOQn",
@@ -2822,7 +2731,7 @@
   },
   {
     "name": "Weekend playlist [11-10-2014]",
-    "lastUpdate": 20141011,
+    "pubDate": 20141011,
     "images": [
       {
         "height": 640,
@@ -2840,8 +2749,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3YYPTAYWhOnQm3cGoPszVS",
@@ -2853,7 +2761,7 @@
   },
   {
     "name": "Weekend playlist [27-09-2014]",
-    "lastUpdate": 20140927,
+    "pubDate": 20140927,
     "images": [
       {
         "height": 640,
@@ -2871,8 +2779,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5dZ594l6zH9DZ1dq8pBlJ8",
@@ -2884,7 +2791,7 @@
   },
   {
     "name": "Rock etc. [13-09-2014]",
-    "lastUpdate": 20140913,
+    "pubDate": 20140913,
     "images": [
       {
         "height": 640,
@@ -2902,8 +2809,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["rock"],
+    "tags": ["weekly", "rock"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4y8SSU13WVtZlF9ypsYMnP",
@@ -2915,7 +2821,7 @@
   },
   {
     "name": "Weekend playlist [06-09-2014]",
-    "lastUpdate": 20140906,
+    "pubDate": 20140906,
     "images": [
       {
         "height": 640,
@@ -2933,8 +2839,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7iFRCU0pGDfLEJUqQO9tFy",
@@ -2946,7 +2851,7 @@
   },
   {
     "name": "Weekend playlist [21-06-2014]",
-    "lastUpdate": 20140621,
+    "pubDate": 20140621,
     "images": [
       {
         "height": 640,
@@ -2964,8 +2869,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["chill"],
+    "tags": ["weekly", "chill"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/03pi1md4GZ4yzlCl9khl3B",
@@ -2977,7 +2881,7 @@
   },
   {
     "name": "Weekend playlist [06-06-2014]",
-    "lastUpdate": 20140606,
+    "pubDate": 20140606,
     "images": [
       {
         "height": 640,
@@ -2995,8 +2899,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5PQRXEDAomZebBxBINVosa",
@@ -3008,7 +2911,7 @@
   },
   {
     "name": "Weekend playlist [24-05-2014]",
-    "lastUpdate": 20140524,
+    "pubDate": 20140524,
     "images": [
       {
         "height": 640,
@@ -3026,8 +2929,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3eA9Mt47ZIjNBtFNnVWs0f",
@@ -3039,7 +2941,7 @@
   },
   {
     "name": "Heavy boots [07-04-2014]",
-    "lastUpdate": 20140407,
+    "pubDate": 20140407,
     "images": [
       {
         "height": 640,
@@ -3057,8 +2959,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["melancholy"],
+    "tags": ["weekly", "melancholy"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4Wh1EI3BwGBKJYsPQ6VeJX",
@@ -3070,7 +2971,7 @@
   },
   {
     "name": "Weekend playlist [05-04-2014]",
-    "lastUpdate": 20140405,
+    "pubDate": 20140405,
     "images": [
       {
         "height": 640,
@@ -3088,8 +2989,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/60Iz6JjgzYxug20kP95wzg",
@@ -3101,7 +3001,7 @@
   },
   {
     "name": "Weekend playlist [29-03-2014]",
-    "lastUpdate": 20140329,
+    "pubDate": 20140329,
     "images": [
       {
         "height": 640,
@@ -3119,8 +3019,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0ma194fGihJjrFkbTwVa1b",
@@ -3132,7 +3031,7 @@
   },
   {
     "name": "Weekend playlist [22-03-2014]",
-    "lastUpdate": 20140322,
+    "pubDate": 20140322,
     "images": [
       {
         "height": 640,
@@ -3150,8 +3049,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/345KhDNMhL6T7MJpaYE3bm",
@@ -3163,7 +3061,7 @@
   },
   {
     "name": "weekend playlist [15-03-2014]",
-    "lastUpdate": 20140315,
+    "pubDate": 20140315,
     "images": [
       {
         "height": 640,
@@ -3181,8 +3079,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5PYc1FTc282NH8jpfE0d5O",
@@ -3194,7 +3091,7 @@
   },
   {
     "name": "Weekend playlist [28-02-2014]",
-    "lastUpdate": 20140228,
+    "pubDate": 20140228,
     "images": [
       {
         "height": 640,
@@ -3212,8 +3109,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4M8UNUkKqyjlbDHooBvghQ",
@@ -3225,7 +3121,7 @@
   },
   {
     "name": "Weekend playlist [22-02-2014]",
-    "lastUpdate": 20140222,
+    "pubDate": 20140222,
     "images": [
       {
         "height": 640,
@@ -3243,8 +3139,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/32zZsh4Unj3cczZ54iS2jW",
@@ -3256,7 +3151,7 @@
   },
   {
     "name": "Weekend playlist [15-02-2014]",
-    "lastUpdate": 20140215,
+    "pubDate": 20140215,
     "images": [
       {
         "height": 640,
@@ -3274,8 +3169,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/56UPI4kgEedN7prpXIbJVm",
@@ -3287,7 +3181,7 @@
   },
   {
     "name": "Weekend playlist [08-02-2014]",
-    "lastUpdate": 20140208,
+    "pubDate": 20140208,
     "images": [
       {
         "height": 640,
@@ -3305,8 +3199,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0puIwoxpX3RXxsKJiGJKTa",
@@ -3318,7 +3211,7 @@
   },
   {
     "name": "Weekend playlist [01-02-2014]",
-    "lastUpdate": 20140201,
+    "pubDate": 20140201,
     "images": [
       {
         "height": 640,
@@ -3336,8 +3229,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5iYLzTMixsu8ACaOiWlqOo",
@@ -3349,7 +3241,7 @@
   },
   {
     "name": "Weekend playlist [25-01-2014]",
-    "lastUpdate": 20140125,
+    "pubDate": 20140125,
     "images": [
       {
         "height": 640,
@@ -3367,8 +3259,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/27XQgf8gW5BEnxDP6BW5ob",
@@ -3380,7 +3271,7 @@
   },
   {
     "name": "Weekend Playlist [18-01-2014]",
-    "lastUpdate": 20140118,
+    "pubDate": 20140118,
     "images": [
       {
         "height": 640,
@@ -3398,8 +3289,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7u0VS4HgpcA2ATQuHS7QuG",
@@ -3411,7 +3301,7 @@
   },
   {
     "name": "Weekend playlist [11-01-2014]",
-    "lastUpdate": 20140111,
+    "pubDate": 20140111,
     "images": [
       {
         "height": 640,
@@ -3429,8 +3319,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1JGKG0dk4oSzY62GKJDkWL",
@@ -3442,7 +3331,7 @@
   },
   {
     "name": "Weekend playlist [04-01-2014]",
-    "lastUpdate": 20140104,
+    "pubDate": 20140104,
     "images": [
       {
         "height": 640,
@@ -3460,8 +3349,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4nMRAD9CZBKAPPC8EpWOkV",
@@ -3473,7 +3361,7 @@
   },
   {
     "name": "Acoustic times [14-12-2013]",
-    "lastUpdate": 20131214,
+    "pubDate": 20131214,
     "images": [
       {
         "height": 640,
@@ -3491,8 +3379,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["acoustic"],
+    "tags": ["weekly", "acoustic"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0vz8J0kqy76hlv77xvQpIi",
@@ -3504,7 +3391,7 @@
   },
   {
     "name": "Weekend playlist [07-12-2013]",
-    "lastUpdate": 20131207,
+    "pubDate": 20131207,
     "images": [
       {
         "height": 640,
@@ -3522,8 +3409,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1bADVx8z4Nw16gkrNwwQ3i",
@@ -3535,7 +3421,7 @@
   },
   {
     "name": "Weekend playlist [30-11-2013]",
-    "lastUpdate": 20131130,
+    "pubDate": 20131130,
     "images": [
       {
         "height": 640,
@@ -3553,8 +3439,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0C9CYhalWpQiOrM3M5C8C5",
@@ -3566,7 +3451,7 @@
   },
   {
     "name": "Weekend playlist [23-11-2013]",
-    "lastUpdate": 20131123,
+    "pubDate": 20131123,
     "images": [
       {
         "height": 640,
@@ -3584,8 +3469,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/15glesyuH4PfQJ61Z7mpFQ",
@@ -3597,7 +3481,7 @@
   },
   {
     "name": "Weekend playlist [16-11-2013]",
-    "lastUpdate": 20131116,
+    "pubDate": 20131116,
     "images": [
       {
         "height": 640,
@@ -3615,8 +3499,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0kLd0iirpPnRruStsExCz6",
@@ -3628,7 +3511,7 @@
   },
   {
     "name": "Weekend playlist [09-11-2013]",
-    "lastUpdate": 20131109,
+    "pubDate": 20131109,
     "images": [
       {
         "height": 640,
@@ -3646,8 +3529,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0dLHC8yVUCudGa9hByObmo",
@@ -3659,7 +3541,7 @@
   },
   {
     "name": "Weekend playlist [26-10-2013]",
-    "lastUpdate": 20131026,
+    "pubDate": 20131026,
     "images": [
       {
         "height": 640,
@@ -3677,8 +3559,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6rrUGw8E8LJYt7ZN9bLJbi",
@@ -3690,7 +3571,7 @@
   },
   {
     "name": "Heavy boots [21-10-2013]",
-    "lastUpdate": 20131021,
+    "pubDate": 20131021,
     "images": [
       {
         "height": 640,
@@ -3708,8 +3589,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["melancholy"],
+    "tags": ["weekly", "melancholy"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3lZRxEmFaLqO8N6mnlEUPT",
@@ -3721,7 +3601,7 @@
   },
   {
     "name": "Acoustic times  [19-10-2013]",
-    "lastUpdate": 20131019,
+    "pubDate": 20131019,
     "images": [
       {
         "height": 640,
@@ -3739,8 +3619,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["acoustic"],
+    "tags": ["weekly", "acoustic"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/17VrWwoPgH9vd0qzQJbznP",
@@ -3752,7 +3631,7 @@
   },
   {
     "name": "Weekend playlist [12-10-2013]",
-    "lastUpdate": 20131012,
+    "pubDate": 20131012,
     "images": [
       {
         "height": 640,
@@ -3770,8 +3649,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0ELBMxGpQ7lvrvMzmpVOiE",
@@ -3783,7 +3661,7 @@
   },
   {
     "name": "Rock etc. [10-10-2013]",
-    "lastUpdate": 20131010,
+    "pubDate": 20131010,
     "images": [
       {
         "height": 640,
@@ -3801,8 +3679,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["rock"],
+    "tags": ["weekly", "rock"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2f3XDqoaEnWXKB4FOJ1J7S",
@@ -3814,7 +3691,7 @@
   },
   {
     "name": "Weekend playlist [05-10-2013]",
-    "lastUpdate": 20131005,
+    "pubDate": 20131005,
     "images": [
       {
         "height": 640,
@@ -3832,8 +3709,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1oo6FRAWGshjNs4zxW1WKc",
@@ -3845,7 +3721,7 @@
   },
   {
     "name": "Weekend playlist [28-09-2013]",
-    "lastUpdate": 20130928,
+    "pubDate": 20130928,
     "images": [
       {
         "height": 640,
@@ -3863,8 +3739,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1im8Ngwldo6E1rA9lZwfS2",
@@ -3876,7 +3751,7 @@
   },
   {
     "name": "Weekend playlist [21-09-2013]",
-    "lastUpdate": 20130921,
+    "pubDate": 20130921,
     "images": [
       {
         "height": 640,
@@ -3894,8 +3769,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4VYGyWJAyegSy0MFioDbDi",
@@ -3908,7 +3782,7 @@
   },
   {
     "name": "Weekend playlist [14-09-2013]",
-    "lastUpdate": 20130914,
+    "pubDate": 20130914,
     "images": [
       {
         "height": 640,
@@ -3926,8 +3800,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4uvrVP15xQAQnkftTeZcKs",
@@ -3940,7 +3813,7 @@
   },
   {
     "name": "Weekend playlist [07-09-2013]",
-    "lastUpdate": 20130907,
+    "pubDate": 20130907,
     "images": [
       {
         "height": 640,
@@ -3958,8 +3831,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0uxprvENEYZXu13YEHpBuD",
@@ -3972,7 +3844,7 @@
   },
   {
     "name": "Weekend playlist [03-08-2013]",
-    "lastUpdate": 20130803,
+    "pubDate": 20130803,
     "images": [
       {
         "height": 640,
@@ -3990,8 +3862,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3qJvVcS42y4nLCFu8aLfNS",
@@ -4004,7 +3875,7 @@
   },
   {
     "name": "Weekend playlist [27-07-2013]",
-    "lastUpdate": 20130727,
+    "pubDate": 20130727,
     "images": [
       {
         "height": 640,
@@ -4022,8 +3893,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6EwEoklaP1wNOEt3radDZg",
@@ -4036,7 +3906,7 @@
   },
   {
     "name": "Weekend playlist [20-07-2013]",
-    "lastUpdate": 20130720,
+    "pubDate": 20130720,
     "images": [
       {
         "height": 640,
@@ -4054,8 +3924,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 15,
     "url": {
       "spotify": "https://open.spotify.com/playlist/479oGXDWrgSohQhkpkHeqU",
@@ -4068,7 +3937,7 @@
   },
   {
     "name": "Weekend playlist [13-07-2013]",
-    "lastUpdate": 20130713,
+    "pubDate": 20130713,
     "images": [
       {
         "height": 640,
@@ -4086,8 +3955,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 14,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3XbVrSIR4uTuN088k3NoFX",
@@ -4100,7 +3968,7 @@
   },
   {
     "name": "Weekend playlist [06-07-2013]",
-    "lastUpdate": 20130706,
+    "pubDate": 20130706,
     "images": [
       {
         "height": 640,
@@ -4118,8 +3986,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0UThq9XMebHImfRe1VhKKc",
@@ -4132,7 +3999,7 @@
   },
   {
     "name": "Weekend playlist [30-06-2013]",
-    "lastUpdate": 20130630,
+    "pubDate": 20130630,
     "images": [
       {
         "height": 640,
@@ -4150,8 +4017,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/60K6jqK3ujnUiZatHnIW9h",
@@ -4164,7 +4030,7 @@
   },
   {
     "name": "Weekend playlist [23-06-2013]",
-    "lastUpdate": 20130623,
+    "pubDate": 20130623,
     "images": [
       {
         "height": 640,
@@ -4182,8 +4048,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4TVRoTzFnsF13wmGH8noho",
@@ -4196,7 +4061,7 @@
   },
   {
     "name": "Rock etc. [19-06-2013]",
-    "lastUpdate": 20130619,
+    "pubDate": 20130619,
     "images": [
       {
         "height": 640,
@@ -4214,8 +4079,8 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["rock"],
+
+    "tags": ["weekly", "rock"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5VlqAbW3w1yNWNn5lohybJ",
@@ -4228,7 +4093,7 @@
   },
   {
     "name": "Weekend Playlist [16-06-2013]",
-    "lastUpdate": 20130616,
+    "pubDate": 20130616,
     "images": [
       {
         "height": 640,
@@ -4246,8 +4111,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/5MbITpETka6qShNc2P07E5",
@@ -4260,7 +4124,7 @@
   },
   {
     "name": "Rock etc. [12-06-2013]",
-    "lastUpdate": 20130612,
+    "pubDate": 20130612,
     "images": [
       {
         "height": 640,
@@ -4278,8 +4142,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["rock"],
+    "tags": ["weekly", "rock"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2Dpi2eoluyUBD0gocIMFwH",
@@ -4292,7 +4155,7 @@
   },
   {
     "name": "Weekend Playlist [09-06-2013]",
-    "lastUpdate": 20130609,
+    "pubDate": 20130609,
     "images": [
       {
         "height": 640,
@@ -4310,8 +4173,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 13,
     "url": {
       "spotify": "https://open.spotify.com/playlist/3GutzY9KNCOtq0yKPuYuiJ",
@@ -4324,7 +4186,7 @@
   },
   {
     "name": "Acoustic Times [05-06-2013]",
-    "lastUpdate": 20130605,
+    "pubDate": 20130605,
     "images": [
       {
         "height": 640,
@@ -4342,8 +4204,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": ["acoustic"],
+    "tags": ["weekly", "acoustic"],
     "totalTracks": 11,
     "url": {
       "spotify": "https://open.spotify.com/playlist/75Ijvw0cwNsLoGTXdhWZWd",
@@ -4356,7 +4217,7 @@
   },
   {
     "name": "Weekend playlist [02-06-2013]",
-    "lastUpdate": 20130602,
+    "pubDate": 20130602,
     "images": [
       {
         "height": 640,
@@ -4374,8 +4235,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/4eqscYvGWQAYNtK9IlCuo9",
@@ -4388,7 +4248,7 @@
   },
   {
     "name": "Weekend playlist [26-05-2013]",
-    "lastUpdate": 20130526,
+    "pubDate": 20130526,
     "images": [
       {
         "height": 640,
@@ -4406,8 +4266,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/1F2wwWLdM2OZBb1cDDqqQ2",
@@ -4420,7 +4279,7 @@
   },
   {
     "name": "Weekend playlist [19-05-2013]",
-    "lastUpdate": 20130519,
+    "pubDate": 20130519,
     "images": [
       {
         "height": 640,
@@ -4438,8 +4297,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/7Jl1pW479OlzREK0djN3FF",
@@ -4452,7 +4310,7 @@
   },
   {
     "name": "Weekend playlist [12-05-2013]",
-    "lastUpdate": 20130512,
+    "pubDate": 20130512,
     "images": [
       {
         "height": 640,
@@ -4470,8 +4328,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/0lrS8SRWacnSwW1KBie6kc",
@@ -4484,7 +4341,7 @@
   },
   {
     "name": "Weekend playlist [05-05-2013]",
-    "lastUpdate": 20130505,
+    "pubDate": 20130505,
     "images": [
       {
         "height": 640,
@@ -4502,8 +4359,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/37yRTW3kXicDkDsduwyPZo",
@@ -4516,7 +4372,7 @@
   },
   {
     "name": "Weekend playlist [28-04-2013]",
-    "lastUpdate": 20130428,
+    "pubDate": 20130428,
     "images": [
       {
         "height": 640,
@@ -4534,8 +4390,7 @@
         "width": 60
       }
     ],
-    "category": "weekly",
-    "tags": [],
+    "tags": ["weekly"],
     "totalTracks": 12,
     "url": {
       "spotify": "https://open.spotify.com/playlist/2lWCi3ybFt1VcFqSUkUi8i",

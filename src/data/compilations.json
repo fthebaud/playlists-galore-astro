@@ -1,7 +1,7 @@
 [
   {
     "name": "Ambient Sounds / Neo-Classical",
-    "lastUpdate": "20230331",
+    "pubDate": "20230331",
     "images": [
       {
         "height": 640,
@@ -32,7 +32,7 @@
   },
   {
     "name": "Indie And Lo-Fi Vibes",
-    "lastUpdate": "20230331",
+    "pubDate": "20230331",
     "images": [
       {
         "height": 640,
@@ -63,7 +63,7 @@
   },
   {
     "name": "Everything from playlist galore 2022",
-    "lastUpdate": "20221227",
+    "pubDate": "20221227",
     "images": [
       {
         "height": 640,
@@ -94,7 +94,7 @@
   },
   {
     "name": "Christmas Playlist",
-    "lastUpdate": "20221228",
+    "pubDate": "20221228",
     "images": [
       {
         "height": 640,
@@ -125,7 +125,7 @@
   },
   {
     "name": "Everything from playlists galore 2021",
-    "lastUpdate": "20211231",
+    "pubDate": "20211231",
     "images": [
       {
         "height": 640,
@@ -156,7 +156,7 @@
   },
   {
     "name": "2020, Summer of n'importe quoi",
-    "lastUpdate": "20200626",
+    "pubDate": "20200626",
     "images": [
       {
         "height": 640,
@@ -187,7 +187,7 @@
   },
   {
     "name": "Everything from playlist galore 2020",
-    "lastUpdate": "20201231",
+    "pubDate": "20201231",
     "images": [
       {
         "height": 640,
@@ -218,7 +218,7 @@
   },
   {
     "name": "Everything from playlist galore 2019",
-    "lastUpdate": "20191231",
+    "pubDate": "20191231",
     "images": [
       {
         "height": 640,
@@ -249,7 +249,7 @@
   },
   {
     "name": "Everything from playlists galore 2018",
-    "lastUpdate": "20181231",
+    "pubDate": "20181231",
     "images": [
       {
         "height": 640,
@@ -280,7 +280,7 @@
   },
   {
     "name": "Everything from playlists galore 2017",
-    "lastUpdate": "20171231",
+    "pubDate": "20171231",
     "images": [
       {
         "height": 640,
@@ -311,7 +311,7 @@
   },
   {
     "name": "Everything from playlists galore 2016",
-    "lastUpdate": "20161231",
+    "pubDate": "20161231",
     "images": [
       {
         "height": 640,
@@ -342,7 +342,7 @@
   },
   {
     "name": "Everything from Playlists Galore 2013-2015",
-    "lastUpdate": "20151231",
+    "pubDate": "20151231",
     "images": [
       {
         "height": 640,
@@ -373,7 +373,7 @@
   },
   {
     "name": "Songs For Sunny Days",
-    "lastUpdate": "20140628",
+    "pubDate": "20140628",
     "images": [
       {
         "height": 640,
@@ -404,7 +404,7 @@
   },
   {
     "name": "Sunny Side Up, part 1 - Ocean",
-    "lastUpdate": "20140317",
+    "pubDate": "20140317",
     "images": [
       {
         "height": 640,
@@ -435,7 +435,7 @@
   },
   {
     "name": "Sunny Side Up, part 2 - Waves",
-    "lastUpdate": "20140318",
+    "pubDate": "20140318",
     "images": [
       {
         "height": 640,
@@ -466,7 +466,7 @@
   },
   {
     "name": "Our beautiful ridiculous plans",
-    "lastUpdate": "20160219",
+    "pubDate": "20160219",
     "images": [
       {
         "height": 640,
@@ -485,9 +485,7 @@
       }
     ],
     "category": "misc.",
-    "tags": [
-      "melancholy"
-    ],
+    "tags": ["melancholy"],
     "totalTracks": 17,
     "url": {
       "spotify": "https://open.spotify.com/playlist/6gWl98nUazP4oT0VJGuNY4",
@@ -499,7 +497,7 @@
   },
   {
     "name": "Over And Out",
-    "lastUpdate": "20141105",
+    "pubDate": "20141105",
     "images": [
       {
         "height": 640,
@@ -518,9 +516,7 @@
       }
     ],
     "category": "misc.",
-    "tags": [
-      "melancholy"
-    ],
+    "tags": ["melancholy"],
     "totalTracks": 16,
     "url": {
       "spotify": "https://open.spotify.com/playlist/663kjSS1FVatOYHMtHeogE",
@@ -532,7 +528,7 @@
   },
   {
     "name": "D/\\nCe",
-    "lastUpdate": "20221229",
+    "pubDate": "20221229",
     "images": [
       {
         "height": 640,
@@ -563,7 +559,7 @@
   },
   {
     "name": "Bruce Springsteen - studio versions [10-2014]",
-    "lastUpdate": "20141001",
+    "pubDate": "20141001",
     "images": [
       {
         "height": 640,
@@ -594,7 +590,7 @@
   },
   {
     "name": "Seattle bands [08-2013]",
-    "lastUpdate": "20130701",
+    "pubDate": "20130701",
     "images": [
       {
         "height": 640,
@@ -625,7 +621,7 @@
   },
   {
     "name": "American Bands [06-2013]",
-    "lastUpdate": "20130601",
+    "pubDate": "20130601",
     "images": [
       {
         "height": 640,
@@ -656,7 +652,7 @@
   },
   {
     "name": "Neil Young [07-2013]",
-    "lastUpdate": "20130701",
+    "pubDate": "20130701",
     "images": [
       {
         "height": 640,

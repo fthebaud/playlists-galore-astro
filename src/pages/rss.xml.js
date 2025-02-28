@@ -9,8 +9,8 @@ export async function GET(context) {
     site: context.site,
     items: posts.map((post) => ({
       title: post.data.name,
-      pubDate: post.data.lastUpdate,
-      link: `/playlists/${post.data.lastUpdate}/`,
+      pubDate: post.data.pubDate,
+      link: `/playlists/${post.data.pubDate}/`,
     })),
     customData: `<language>en-us</language>`,
   });

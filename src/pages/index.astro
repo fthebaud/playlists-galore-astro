@@ -12,7 +12,7 @@ const allPlaylists = await getCollection("playlists");
     {
       allPlaylists.map((entry, index) => (
         <PlaylistLink
-          url={`/playlists/${entry.data.lastUpdate}/`}
+          url={`/playlists/${entry.data.pubDate}/`}
           playlist={entry.data}
           aboveTheFold={index < 10}
         />
