@@ -1,5 +1,35 @@
 [
   {
+    "name": "March 2025 - Ears Poppin'",
+    "pubDate": 20250323,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e0249862db9cbce96b19c03c3c6ab67616d00001e02cd96de2b315c8e69fa48608aab67616d00001e02da10e566a05c4c506a424f3aab67616d00001e02f52e3a954b815ec328e30089",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e0249862db9cbce96b19c03c3c6ab67616d00001e02cd96de2b315c8e69fa48608aab67616d00001e02da10e566a05c4c506a424f3aab67616d00001e02f52e3a954b815ec328e30089",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e0249862db9cbce96b19c03c3c6ab67616d00001e02cd96de2b315c8e69fa48608aab67616d00001e02da10e566a05c4c506a424f3aab67616d00001e02f52e3a954b815ec328e30089",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 19,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/6ZfiyaDTsMp8ISIs13W9ax",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIw07SDE69aiOFSSh2IuYox",
+      "deezer": "https://dzr.page.link/eb7t1JCGHPPj721u6",
+      "tidal": "https://tidal.com/browse/playlist/21ea4f43-323c-4f50-9bbe-30ccb60dd1a7"
+    },
+    "id": "997aab1e-7728-436d-82b5-e2c627a14d3e"
+  },
+  {
     "name": "February 2025 - Perfect From Now On",
     "pubDate": 20250226,
     "images": [
