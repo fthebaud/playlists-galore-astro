@@ -1,5 +1,35 @@
 [
   {
+    "name": "April 2025 - April Snow",
+    "pubDate": 20250405,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e02164b8fe3611474628474546bab67616d00001e02389ffd99d51037a6f0a256f5ab67616d00001e0265dd2ca58257022fac214803ab67616d00001e02bcd0dda21a3a319df932d203",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e02164b8fe3611474628474546bab67616d00001e02389ffd99d51037a6f0a256f5ab67616d00001e0265dd2ca58257022fac214803ab67616d00001e02bcd0dda21a3a319df932d203",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e02164b8fe3611474628474546bab67616d00001e02389ffd99d51037a6f0a256f5ab67616d00001e0265dd2ca58257022fac214803ab67616d00001e02bcd0dda21a3a319df932d203",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 19,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/6zKTC44Nsp1o5Dhdf5SJqB",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKH-EAA7IVxNAndTaGyvIFd",
+      "deezer": "https://dzr.page.link/CVk3tm1gW3WU1GXN9",
+      "tidal": "https://tidal.com/browse/playlist/dd1ab577-77ce-44f4-b634-bcac458ad221"
+    },
+    "id": "e122be3a-e2fb-47be-ab13-168461792e00"
+  },
+  {
     "name": "March 2025 - Ears Poppin'",
     "pubDate": 20250323,
     "images": [
