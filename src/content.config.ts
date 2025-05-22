@@ -19,10 +19,11 @@ const playlistSchema = z.object({
   tags: z.array(z.string()),
   totalTracks: z.number(),
   url: z.object({
-    spotify: z.string(),
-    youtube: z.string(),
     deezer: z.string(),
+    qobuz: z.string(),
+    spotify: z.string(),
     tidal: z.string(),
+    youtube: z.string(),
   }),
 });
 

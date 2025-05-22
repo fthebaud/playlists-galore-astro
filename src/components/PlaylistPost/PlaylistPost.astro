@@ -5,6 +5,7 @@ import TidalLogo from "@src/assets/tidal-icon.svg";
 import DeezerLogo from "@src/assets/deezer-icon.svg";
 import YoutubeMusicLogo from "@src/assets/youtubeMusic-icon.svg";
 import SpotifyLogo from "@src/assets/spotify-icon.svg";
+import QobuzLogo from "@src/assets/qobuz-icon.svg";
 import { printDetails } from "@src/utils";
 
 interface Props {
@@ -34,12 +35,12 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
 
   <div class="links">
     <a
-      href={playlist.url.tidal}
+      href={playlist.url.qobuz}
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="Tidal"
+      aria-label="Qobuz"
     >
-      <TidalLogo />
+      <QobuzLogo />
     </a>
     <a
       href={playlist.url.deezer}
@@ -50,20 +51,28 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
       <DeezerLogo />
     </a>
     <a
-      href={playlist.url.youtube}
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label="Youtube Music"
-    >
-      <YoutubeMusicLogo />
-    </a>
-    <a
       href={playlist.url.spotify}
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Spotify"
     >
       <SpotifyLogo />
+    </a>
+    <a
+      href={playlist.url.tidal}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Tidal"
+    >
+      <TidalLogo />
+    </a>
+    <a
+      href={playlist.url.youtube}
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Youtube Music"
+    >
+      <YoutubeMusicLogo />
     </a>
   </div>
 </div>
