@@ -33,7 +33,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     </div>
   </div>
 
-  <div class="links">
+  <div class="links-grid">
     <a
       href={playlist.url.qobuz}
       target="_blank"
@@ -42,6 +42,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     >
       <QobuzLogo />
     </a>
+    <span></span>
     <a
       href={playlist.url.deezer}
       target="_blank"
@@ -50,6 +51,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     >
       <DeezerLogo />
     </a>
+    <span></span>
     <a
       href={playlist.url.spotify}
       target="_blank"
@@ -58,6 +60,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     >
       <SpotifyLogo />
     </a>
+    <span></span>
     <a
       href={playlist.url.tidal}
       target="_blank"
@@ -66,6 +69,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     >
       <TidalLogo />
     </a>
+    <span></span>
     <a
       href={playlist.url.youtube}
       target="_blank"
@@ -74,6 +78,7 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     >
       <YoutubeMusicLogo />
     </a>
+    <span></span>
   </div>
 </div>
 
@@ -81,11 +86,12 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
   .container {
     display: flex;
     flex-direction: column;
-    gap: 1.5rem;
+    align-items: center;
+    gap: 2rem;
   }
 
   .image-cover {
-    width: 100%;
+    width: 90%;
     aspect-ratio: 1 / 1;
     border-radius: 12px;
     border: 1px solid;
@@ -118,14 +124,14 @@ const details = printDetails(playlist.totalTracks, playlist.pubDate);
     color: var(--light-grey);
   }
 
-  .links {
-    margin-top: 0.5rem;
-    display: flex;
-    justify-content: space-evenly;
+  .links-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    row-gap: 0.2rem;
   }
 
-  .links a {
-    width: 3.6rem;
+  .links-grid a {
+    width: 3.2rem;
     height: auto;
     display: block;
   }
