@@ -1,5 +1,36 @@
 [
   {
+    "name": "June 2025 - Taking Chances",
+    "pubDate": 20250608,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e02386f1957b431b116e29b5b0dab67616d00001e02534f938018610cc81285a9d2ab67616d00001e02750902e127deaceeb698c748ab67616d00001e02a729c9c3dec04b99d889c66f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e02386f1957b431b116e29b5b0dab67616d00001e02534f938018610cc81285a9d2ab67616d00001e02750902e127deaceeb698c748ab67616d00001e02a729c9c3dec04b99d889c66f",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e02386f1957b431b116e29b5b0dab67616d00001e02534f938018610cc81285a9d2ab67616d00001e02750902e127deaceeb698c748ab67616d00001e02a729c9c3dec04b99d889c66f",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 23,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/0t0qVWGplLlSnVJ4Cp7mEy",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSI4QarGo5OGFVvhbIpysucs",
+      "deezer": "https://dzr.page.link/YvCgv8dT1KYd7NHy9",
+      "tidal": "https://tidal.com/browse/playlist/eee973e7-a56e-48dd-8158-a8f27cb0dd9a",
+      "qobuz": "https://open.qobuz.com/playlist/32212022"
+    },
+    "id": "67a2cfd5-bca3-43d0-a27c-ff3f489ca95a"
+  },
+  {
     "name": "April 2025 - April Snow",
     "pubDate": 20250405,
     "images": [
