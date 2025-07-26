@@ -1,5 +1,36 @@
 [
   {
+    "name": "July 2025 - Headache",
+    "pubDate": 20250727,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e022ce266c913899d0baa5af4e3ab67616d00001e026890709a7d981a59aedc1cb9ab67616d00001e028c96953c52a437cfbfe5d673ab67616d00001e02ef94dd0a5d7c55e144924fcd",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e022ce266c913899d0baa5af4e3ab67616d00001e026890709a7d981a59aedc1cb9ab67616d00001e028c96953c52a437cfbfe5d673ab67616d00001e02ef94dd0a5d7c55e144924fcd",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e022ce266c913899d0baa5af4e3ab67616d00001e026890709a7d981a59aedc1cb9ab67616d00001e028c96953c52a437cfbfe5d673ab67616d00001e02ef94dd0a5d7c55e144924fcd",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 25,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/1j9KNuQw7R9cIsfleFBC79",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSKPP05ymEX-SCQGVYN7lKZC",
+      "deezer": "https://dzr.page.link/30AewvNYPP87PNqpA0elK",
+      "tidal": "https://tidal.com/browse/playlist/1f365a1e-2c3f-4619-b80f-f117a068a0b1",
+      "qobuz": "https://open.qobuz.com/playlist/32211993"
+    },
+    "id": "41a5203d-85d8-4986-a117-a371d4b65ad8"
+  },
+  {
     "name": "June 2025 - Taking Chances",
     "pubDate": 20250608,
     "images": [
