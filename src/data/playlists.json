@@ -1,5 +1,36 @@
 [
   {
+    "name": "August 2025 - Dimanche Éternel",
+    "pubDate": 20250821,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e02acf4b89aefc27dcc544fe366ab67616d00001e02c42b9259f85c569fedc11dc1ab67616d00001e02c6699965e1ba56b693fa427cab67616d00001e02c8c3aec1950d7afa3e9ed13b",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e02acf4b89aefc27dcc544fe366ab67616d00001e02c42b9259f85c569fedc11dc1ab67616d00001e02c6699965e1ba56b693fa427cab67616d00001e02c8c3aec1950d7afa3e9ed13b",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e02acf4b89aefc27dcc544fe366ab67616d00001e02c42b9259f85c569fedc11dc1ab67616d00001e02c6699965e1ba56b693fa427cab67616d00001e02c8c3aec1950d7afa3e9ed13b",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 24,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/195LuBPeF9RRFyVvuj0KRs",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSIVFXxNE2nIQX9AtFbV6Nb7",
+      "deezer": "https://link.deezer.com/s/30P3REJGR1hPVbHpcszy6",
+      "tidal": "https://tidal.com/browse/playlist/fff24e39-980e-4cd3-8170-3e12d0d36174",
+      "qobuz": "https://open.qobuz.com/playlist/32714929"
+    },
+    "id": "90d0556d-0626-4568-8d2a-88bc2a56d48d"
+  },
+  {
     "name": "July 2025 - Headache",
     "pubDate": 20250727,
     "images": [
