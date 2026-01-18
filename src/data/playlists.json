@@ -1,5 +1,36 @@
 [
   {
+    "name": "January 2026 - That Was My Garden",
+    "pubDate": 20260118,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e022cd006e0704d36bd47e4abe9ab67616d00001e02540546a2f69f1105a817cb8eab67616d00001e025f935de9df46b385a9e3a931ab67616d00001e02b3c0730cec27322631853e0e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e022cd006e0704d36bd47e4abe9ab67616d00001e02540546a2f69f1105a817cb8eab67616d00001e025f935de9df46b385a9e3a931ab67616d00001e02b3c0730cec27322631853e0e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e022cd006e0704d36bd47e4abe9ab67616d00001e02540546a2f69f1105a817cb8eab67616d00001e025f935de9df46b385a9e3a931ab67616d00001e02b3c0730cec27322631853e0e",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 21,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/3xLZNG88Z0knmoLudlOnAq",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSK1uRc1iOuzMf83-L43khSg",
+      "deezer": "https://link.deezer.com/s/32cEOZcv9sr813G9rBLaw",
+      "tidal": "https://tidal.com/browse/playlist/1d4b9f3c-c8aa-4fc1-a2b7-0f7a6ff204a4",
+      "qobuz": "https://open.qobuz.com/playlist/53126336"
+    },
+    "id": "acbc18ad-e449-41bd-afed-6ae8e73c488"
+  },
+  {
     "name": "August 2025 - Dimanche Éternel",
     "pubDate": 20250821,
     "images": [
