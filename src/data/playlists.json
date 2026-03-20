@@ -1,5 +1,36 @@
 [
   {
+    "name": "March 26 - Beach On The Moon",
+    "pubDate": 20260320,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e024a433b70570055bfe6f2e02aab67616d00001e02cba4f1bfe9205dae9d77fc4aab67616d00001e02f30a84018a2ab2daf442124eab67616d00001e02f69e28716be1331924f25f2e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e024a433b70570055bfe6f2e02aab67616d00001e02cba4f1bfe9205dae9d77fc4aab67616d00001e02f30a84018a2ab2daf442124eab67616d00001e02f69e28716be1331924f25f2e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e024a433b70570055bfe6f2e02aab67616d00001e02cba4f1bfe9205dae9d77fc4aab67616d00001e02f30a84018a2ab2daf442124eab67616d00001e02f69e28716be1331924f25f2e",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 20,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/66KFO2IkzOjMAtOFt21wrp",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLbj2xRG3bV5V8I6aAre-Vc",
+      "deezer": "https://link.deezer.com/s/32LcFUgWqFTEtyg2gRImQ",
+      "tidal": "https://tidal.com/browse/playlist/16e9d48f-288b-4056-87a6-6a5a7b9de212",
+      "qobuz": "https://open.qobuz.com/playlist/53261530"
+    },
+    "id": "48941df1-816f-4757-897b-8310cfc8bf66"
+  },
+  {
     "name": "January 2026 - That Was My Garden",
     "pubDate": 20260118,
     "images": [
