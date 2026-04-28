@@ -1,5 +1,36 @@
 [
   {
+    "name": "April 2026 - People On Sunday",
+    "pubDate": 20260428,
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d00001e023f29afcd685dab6a7f5e622dab67616d00001e025e1deb36b7b92fff869413a4ab67616d00001e02e6c1d4082d071f73e14e91feab67616d00001e02f58a76d350843796227d14b7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d00001e023f29afcd685dab6a7f5e622dab67616d00001e025e1deb36b7b92fff869413a4ab67616d00001e02e6c1d4082d071f73e14e91feab67616d00001e02f58a76d350843796227d14b7",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d00001e023f29afcd685dab6a7f5e622dab67616d00001e025e1deb36b7b92fff869413a4ab67616d00001e02e6c1d4082d071f73e14e91feab67616d00001e02f58a76d350843796227d14b7",
+        "width": 60
+      }
+    ],
+    "tags": ["monthly"],
+    "totalTracks": 25,
+    "url": {
+      "spotify": "https://open.spotify.com/playlist/3puHHT0IrdixSZnmnG0eJc?si=z6O0z3yxRp6dBVfsKrwQ8A",
+      "youtube": "https://music.youtube.com/playlist?list=PLvgI9LIWQRSLNidnylpNKnAnieDnMmDlD",
+      "deezer": "https://link.deezer.com/s/337C26dKGns82gHS43JeG",
+      "tidal": "https://tidal.com/browse/playlist/e8af86d7-e9b9-4d98-a639-b3b55e8f146b",
+      "qobuz": "https://open.qobuz.com/playlist/53261739"
+    },
+    "id": "d0d3829f-45b4-4a3c-a70a-2b83764c93d1"
+  },
+  {
     "name": "March 26 - Beach On The Moon",
     "pubDate": 20260320,
     "images": [
